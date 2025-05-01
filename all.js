@@ -508,7 +508,7 @@ all_links.forEach((e) => {
                 <div class="col-md-12 mt-5 col-lg-12">
                     <div class="icon mt-5 mb-5">
                         <div class="icon text-center">
-                        <i class="bi bi-arrow-repeat spin" style="font-size: 30px; color: #007bff;"></i>
+                        <img src="online.png" class="w-100 rounded ">
                         </div>
                     </div>
                 </div>
