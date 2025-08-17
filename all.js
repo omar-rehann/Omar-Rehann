@@ -282,18 +282,28 @@ all_links.forEach((e) => {
                                         <img src="imgproject/crud.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">CRUD</h5>
-                                            <a href="https://omar-rehann.github.io/CRUD/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Crud-Applction/" class="btn">Live Demo</a>
                                         </div>
                                     </div>
                                     
 
                                 </div>
+                                 <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/gemni.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Gemni Ai </h5>
+                                            <a href="https://omar-rehann.github.io/Gemni-Ai/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
                                    <div class="col-md-6 col-lg-4">
                                     <div class="card mt-2" style="width: 100%;">
-                                        <img src="imgproject/master.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <img src="imgproject/cava.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
-                                            <h5 class="card-title">Matser Study</h5>
-                                            <a href="https://omar-rehann.github.io/Master-Study/" class="btn">Live Demo</a>
+                                            <h5 class="card-title">Cave Ecommerce </h5>
+                                            <a href="https://omar-rehann.github.io/Cava-Ecommerce/" class="btn">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -303,7 +313,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/elec.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Electronic Mart</h5>
-                                            <a href="https://omar-rehann.github.io/Electronic-Mart/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Electonic-Mart/" class="btn">Live Demo</a>
                                         </div>
                                     </div>
 
