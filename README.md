@@ -1,30 +1,22 @@
-# 👋 Hi, I'm Omar
+# 👋 Hi, I'm Omar Rehan
 
 🎓 Computer Science graduate with distinction  
 💻 Front-End Developer | HTML, CSS, JavaScript, Bootstrap  
 📚 Certified from FreeCodeCamp, Coursera, Mahara Tech  
 🌍 Passionate about global tech standards and clean UI/UX  
-📈 Currently mastering React, TypeScript, Tailwind
+📈 Currently mastering React, TypeScript, Tailwind  
 
 ## 🚀 Featured Projects
-
-### 🗂️ CRUD App
-A clean and responsive CRUD application built with vanilla JavaScript and Bootstrap. Supports Create, Read, Update, Delete operations with local storage integration and form validation.
----
-### 🛍️ Cava E-Commerce
-A stylish e-commerce platform inspired by Cava, featuring product listings, cart functionality, and responsive design. Built using HTML, CSS, and JavaScript with modular code structure.
----
-### 🎨 Canva E-Commerce
-An advanced e-commerce site inspired by Canva’s design philosophy. Includes dynamic product filtering, image previews, and smooth UI/UX transitions. Developed with modern front-end practices.
----
-
-### 🤖 Gemini AI Integration
-A smart web interface integrating Gemini AI for real-time responses and content generation. Showcases API handling, asynchronous logic, and clean UI presentation.
----
-### ❓ Quiz App
-An interactive quiz application with multiple-choice questions, score tracking, and dynamic feedback. Built with JavaScript and styled for mobile-first experience.
-
+- 🗂️ CRUD App  
+- 🛍️ Cava E-Commerce  
+- 🎨 Canva E-Commerce  
+- 🤖 Gemini AI Integration  
+- ❓ Quiz App  
 
 ## 📫 Connect with me
-- LinkedIn: [Your Profile](https://linkedin.com/in/omar-rehann)
-- Gmail: [Your Gmail](omarrehan724@gmail.com)
+- LinkedIn: [linkedin.com/in/omar-rehan](https://www.linkedin.com/in/omar-rehan)  
+- Gmail: omarrehan724@gmail.com  
+- Facebook: [facebook.com/omar.rehan](https://www.facebook.com/omar.rehan)  
+- Instagram: [instagram.com/omar-rehann](https://www.instagram.com/omar-rehann)  
+- Twitter (X): [twitter.com/omarrehan](https://twitter.com/omarrehan)  
+- Portfolio: [omar-rehann.github.io/Omar-Rehann](https://omar-rehann.github.io/Omar-Rehann/)  
