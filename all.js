@@ -573,7 +573,17 @@ all_links.forEach((e) => {
                                         <img src="imgproject/api.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Api Github</h5>
-                                            <a href="https://omar-rehann.github.io/Api_Github/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Github-Clone/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                  <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/quiz.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Quiz App</h5>
+                                            <a href="https://omar-rehann.github.io/Quiz-App/" class="btn">Live Demo</a>
                                         </div>
                                     </div>
 
