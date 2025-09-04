@@ -508,27 +508,7 @@ all_links.forEach((e) => {
                                     </div>
 
                                 </div>
-
-                            </div>
-            
-            `
-        } else if (e.id == "six") {
-            section.innerHTML = `
-                <div class="row">
-                <div class="col-md-12 mt-5 col-lg-12">
-                    <div class="icon mt-5 mb-5">
-                        <div class="icon text-center">
-                        <img src="online.png" class="w-100 rounded ">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            `
-        } else if (e.id == "seven") {
-            section.innerHTML = `
-                   <div class="row">
-                                <div class="col-md-6 col-lg-4">
+                                 <div class="col-md-6 col-lg-4">
                                     <div class="card mt-2" style="width: 100%;">
                                         <img src="imgproject/temo.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
@@ -589,9 +569,20 @@ all_links.forEach((e) => {
 
                                 </div>
 
-
-
                             </div>
+            
+            `
+        } else if (e.id == "six") {
+            section.innerHTML = `
+                <div class="row">
+                <div class="col-md-12 mt-5 col-lg-12">
+                    <div class="icon mt-5 mb-5">
+                        <div class="icon text-center">
+                        <img src="online.png" class="w-100 rounded ">
+                        </div>
+                    </div>
+                </div>
+            </div>
             
             `
         } else {
