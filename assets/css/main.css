@@ -1407,5 +1407,44 @@ section.portfolio .project a {
     /* Add your styles here */
 }
 
+h4.skill {
+    position: relative;
+    padding-bottom: 10px;
+}
+
+h4.skill {
+    position: relative;
+    /* ضروري لتحديد موقع ::before نسبة للـ h4 */
+}
+
+h4.skill::before {
+    content: "";
+    position: absolute;
+    background-color: black;
+    width: 0%;
+    height: 4px;
+    border-radius: 10px;
+    bottom: 0px;
+    animation: expandAndFade 2s ease-in-out infinite;
+}
+
+
+/* تعريف الأنيميشن */
+
+@keyframes expandAndFade {
+    0% {
+        width: 0%;
+        opacity: 0;
+    }
+    50% {
+        width: 10%;
+        opacity: 1;
+    }
+    100% {
+        width: 0%;
+        opacity: 0;
+    }
+}
+
 
 /* Add your styles here */

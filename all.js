@@ -577,13 +577,48 @@ all_links.forEach((e) => {
         } else if (e.id == "six") {
             section.innerHTML = `
                 <div class="row">
-                <div class="col-md-12 mt-5 col-lg-12">
+                <div class="col-md-6 mt-5 col-lg-6">
                     <div class="icon mt-5 mb-5">
                         <div class="icon text-center">
                         <img src="online.png" class="w-100 rounded ">
                         </div>
                     </div>
                 </div>
+                  <div class="col-md-6 mt-5 col-lg-6">
+                        <div class="icon mt-5 mb-5">
+                            <div class="icon text-center">
+                            <img src="img/o1.png" class="w-100 rounded ">
+                            </div>
+                        </div>
+                  </div>
+                     <div class="col-md-6 mt-5 col-lg-6">
+                        <div class="icon mt-5 mb-5">
+                            <div class="icon text-center">
+                            <img src="img/o2.png" class="w-100 rounded ">
+                            </div>
+                        </div>
+                  </div>
+                     <div class="col-md-6 mt-5 col-lg-6">
+                        <div class="icon mt-5 mb-5">
+                            <div class="icon text-center">
+                            <img src="img/o3.png" class="w-100 rounded ">
+                            </div>
+                        </div>
+                  </div>
+                     <div class="col-md-6 mt-5 col-lg-6">
+                        <div class="icon mt-5 mb-5">
+                            <div class="icon text-center">
+                            <img src="img/o4.png" class="w-100 rounded ">
+                            </div>
+                        </div>
+                  </div>
+                     <div class="col-md-6 mt-5 col-lg-6">
+                        <div class="icon mt-5 mb-5">
+                            <div class="icon text-center">
+                            <img src="img/s1.png" class="w-100 rounded ">
+                            </div>
+                        </div>
+                  </div>
             </div>
             
             `
