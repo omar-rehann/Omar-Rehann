@@ -237,16 +237,7 @@ all_links.forEach((e) => {
                                     </div>
 
                                 </div>
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="card mt-2" style="width: 100%;">
-                                        <img src="imgproject/fitapp.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
-                                        <div class="card-body">
-                                            <h5 class="card-title">Fit App</h5>
-                                            <a href="https://omar-rehann.github.io/Fit-App/" class="btn">Live Demo</a>
-                                        </div>
-                                    </div>
-
-                                </div>
+                               
                                 <div class="col-md-6 col-lg-4">
                                     <div class="card mt-2" style="width: 100%;">
                                         <img src="imgproject/digital.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
@@ -334,6 +325,16 @@ all_links.forEach((e) => {
                                         <div class="card-body">
                                             <h5 class="card-title">Electronic Mart</h5>
                                             <a href="https://omar-rehann.github.io/Electonic-Mart/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                 <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/inote.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">INote Company</h5>
+                                            <a href="https://omar-rehann.github.io/INote-Company/" class="btn">Live Demo</a>
                                         </div>
                                     </div>
 
