@@ -18,6 +18,7 @@ I am passionate about delivering efficient, user-friendly, and innovative web so
 - 🗂️ **CRUD Application** – Create, Read, Update, Delete with clean structure & responsive design  
 - 🛍️ **Cava E-Commerce Platform** – Responsive shopping platform with cart functionality  
 - 🛒 **Electronic Mart E-Commerce** – Full e-commerce front-end with product pages & categories  
+- 🛒 **V1 E-Commerce** – Full e-commerce front-end with product pages & categories  
 - 🌐 **Portfolio Website** – Showcase of projects, UI/UX experiments, and coding challenges  
 
 ---

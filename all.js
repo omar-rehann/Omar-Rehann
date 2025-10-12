@@ -227,16 +227,7 @@ all_links.forEach((e) => {
                                     </div>
 
                                 </div>
-                                 <div class="col-md-6 col-lg-4">
-                                    <div class="card mt-2" style="width: 100%;">
-                                        <img src="imgproject/it.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
-                                        <div class="card-body">
-                                            <h5 class="card-title">It Text</h5>
-                                            <a href="https://omar-rehann.github.io/it-text/" class="btn">Live Demo</a>
-                                        </div>
-                                    </div>
-
-                                </div>
+                                
                                
                                 <div class="col-md-6 col-lg-4">
                                     <div class="card mt-2" style="width: 100%;">
@@ -325,6 +316,16 @@ all_links.forEach((e) => {
                                         <div class="card-body">
                                             <h5 class="card-title">Electronic Mart</h5>
                                             <a href="https://omar-rehann.github.io/Electonic-Mart/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/vq.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">V1 E-Commerce </h5>
+                                            <a href="https://omar-rehann.github.io/V1/" class="btn">Live Demo</a>
                                         </div>
                                     </div>
 
