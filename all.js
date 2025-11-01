@@ -578,6 +578,9 @@ all_links.forEach((e) => {
             `
         } else if (e.id == "six") {
             section.innerHTML = `
+            `
+        } else if (e.id == "seven") {
+            section.innerHTML = `
                 <div class="row">
                 <div class="col-md-6 mt-5 col-lg-6">
                     <div class="icon mt-5 mb-5">
