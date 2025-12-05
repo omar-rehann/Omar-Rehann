@@ -579,6 +579,15 @@ all_links.forEach((e) => {
         } else if (e.id == "six") {
             section.innerHTML = `
                 <div class="row">
+                <div class="col-md-6">
+                <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/porfiloo.png" style="width: 100%; alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title"> Personal Portfilo</h5>
+                                            <a href="https://omar-rehann.github.io/Portfilo-react/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+               </div>
                <div class="col-md-6">
                 <div class="card mt-2" style="width: 100%;">
                                         <img src="imgproject/medical.png" style="width: 100%; alt="...">
