@@ -588,15 +588,7 @@ all_links.forEach((e) => {
                                         </div>
                                     </div>
                </div>
-               <div class="col-md-6">
-                <div class="card mt-2" style="width: 100%;">
-                                        <img src="imgproject/medical.png" style="width: 100%; alt="...">
-                                        <div class="card-body">
-                                            <h5 class="card-title">Medical Website</h5>
-                                            <a href="https://omar-rehann.github.io/Medical-Website/" class="btn">Live Demo</a>
-                                        </div>
-                                    </div>
-               </div>
+              
                <div class="col-md-6 ">
                                     <div class="card mt-2" style="width: 100%;">
                                         <img src="imgproject/cavareact.png" style="width: 100%;" alt="...">
@@ -609,7 +601,7 @@ all_links.forEach((e) => {
             </div>
              <div class="col-md-6 ">
                                     <div class="card mt-2" style="width: 100%;">
-                                        <img src="imgproject/vq.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <img src="imgproject/vq.png" style="width: 100%;height: 225px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Ecom-Hub </h5>
                                             <a href="https://omar-rehann.github.io/Ecom-Hub/" class="btn">Live Demo</a>
@@ -617,6 +609,24 @@ all_links.forEach((e) => {
                                     </div>
                  
             </div>
+             <div class="col-md-6">
+                <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/youtube.png" style="width: 100%; alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Youtube Clone</h5>
+                                            <a href="https://omar-rehann.github.io/Youtube-Clone/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+               </div>
+             <div class="col-md-6">
+                <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/medical.png" style="width: 100%; alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Medical Website</h5>
+                                            <a href="https://omar-rehann.github.io/Medical-Website/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+               </div>
 
             
             `
