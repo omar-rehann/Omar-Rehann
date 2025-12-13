@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 Frontend Developer | React.js
- skilled in **HTML, CSS, JavaScript (ES6), BootstrapوReact.js**, and **Responsive Design**.  
+ skilled in **HTML, CSS, JavaScript (ES6), Bootstrap,React.js**, and **Responsive Design**.  
 I apply **Clean Code principles**, use **Git/GitHub** for version control, and have a strong foundation in **C++, OOP, Data Structures, and Algorithms**.  
 I am passionate about delivering efficient, user-friendly, and innovative web solutions.  
 
