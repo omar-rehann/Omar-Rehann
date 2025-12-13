@@ -51,7 +51,7 @@ I am passionate about delivering efficient, user-friendly, and innovative web so
 ---
 
 ## 🛠️ Skills
-- **Languages & Tools**: C++, JavaScript (ES6), HTML, CSS, Bootstrap, Git, GitHub, Bash Scripting  
+- **Languages & Tools**: C++, JavaScript (ES6),React.js, HTML, CSS, Bootstrap, Git, GitHub, Bash Scripting  
 - **Concepts**: OOP, Data Structures, Algorithms, Responsive Design, Clean Code  
 - **Soft Skills**: Teamwork, Communication, Problem-Solving, Presentation  
 
