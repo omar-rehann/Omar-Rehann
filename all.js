@@ -618,6 +618,15 @@ all_links.forEach((e) => {
                                         </div>
                                     </div>
                </div>
+                <div class="col-md-6">
+                <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/inote.png" style="width: 100%; alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">INote Company</h5>
+                                            <a href="https://omar-rehann.github.io/INotee-Company/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+               </div>
              <div class="col-md-6">
                 <div class="card mt-2" style="width: 100%;">
                                         <img src="imgproject/medical.png" style="width: 100%; alt="...">
