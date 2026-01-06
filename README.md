@@ -24,6 +24,7 @@ I am passionate about delivering efficient, user-friendly, and innovative web so
 - 🤖 **Gemna AI Platform** – AI-powered application featuring **real-time analytics**, dynamic dashboards, and responsive React.js components.  
 - 📝 **iNote Company** – Notes and productivity platform with **React.js frontend**, **local storage management**, and interactive user interface.  
 - 📝 **Book Store** – Book Store Redux Online book store platform with**React.js frontend**, **Redux Toolkit**,**Json Server**, and interactive user interface.  
+⚙️ **CRUD Operations** - Implemented full Create, Read, Delete functionality using Redux Toolkit, allowing users to add books from the home page, view all books on a dedicated page, and delete items seamlessly
 
 
 ---
