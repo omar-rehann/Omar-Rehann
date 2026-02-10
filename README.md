@@ -24,8 +24,7 @@ I am passionate about delivering efficient, user-friendly, and innovative web so
 - 📝 **iNote Company** – Notes and productivity platform with **React.js frontend**, **local storage management**, and interactive user interface.  
 - 📝 **Book Store** – Book Store Redux Online book store platform with**React.js frontend**, **Redux Toolkit**,**Json Server**, and interactive user interface.  
 -  ⚙️ **CRUD Operations** - Implemented full Create, Read, Delete functionality using Redux Toolkit, allowing users to add books from the home page, view all books on a dedicated page, and delete items seamlessly
-
-🛠️ **Admin Dashboard** – Interactive admin panel built with React.js featuring authentication flow, protected routes, dynamic data visualization, reusable components, and responsive dashboard layout.
+-  🛠️ **Admin Dashboard** - Implemented full Create, Read, Delete functionality using Redux Toolkit, allowing users to add books from the home page, view all books on a dedicated page, and delete items seamlessly
 ---
 
 ## 🏢 Experience
