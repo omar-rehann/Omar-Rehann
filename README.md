@@ -54,9 +54,11 @@ I am passionate about delivering efficient, user-friendly, and innovative web so
 ---
 
 ## 🛠️ Skills
-- **Languages & Tools**: C++, JavaScript (ES6),React.js, HTML, CSS, Bootstrap, Git, GitHub, Bash Scripting  
-- **Concepts**: OOP, Data Structures, Algorithms, Responsive Design, Clean Code  
-- **Soft Skills**: Teamwork, Communication, Problem-Solving, Presentation  
+- **Frontend & Web Development**:  HTML5, CSS3, Responsive Design, JavaScript (ES6+), TypeScript, React.js, Redux
+Toolkit, React Router, Bootstrap
+- **Programming & Fundamentals**:  C++, OOP, Data Structures, Algorithms, Bash Scripting Tools & Productivity: Git, GitHub 
+- **Soft & Other Skills**: Problem Solving, Team Collaboration, Self-Learner, AI-Powered Productivity, Mathematics
+Proficiency, Presentation Skills (Gamma, Google Slides) 
 
 ---
 
