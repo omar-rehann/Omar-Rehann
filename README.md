@@ -52,13 +52,13 @@ I am passionate about delivering efficient, user-friendly, and innovative web so
 ---
 
 ## 🛠️ Skills
-- **Frontend & Web Development**:  HTML5, CSS3, Responsive Design, JavaScript (ES6+), TypeScript, React.js, Redux
+- **Frontend & Web Development** :  HTML5, CSS3, Responsive Design, JavaScript (ES6+), TypeScript, React.js, Redux
 Toolkit, React Router, Bootstrap
-- **Programming & Fundamentals**:  C++, OOP, Data Structures, Algorithms, Bash Scripting 
+- **Programming & Fundamentals** :  C++, OOP, Data Structures, Algorithms, Bash Scripting 
 - **Tools & Productivity**:  Git, GitHub 
-- **Backend & Databases (Basic Knowledge):**:  PHP, MySQL, Database Concepts
+- **Backend & Databases (Basic Knowledge)** :  PHP, MySQL, Database Concepts
 
-- **Soft & Other Skills**: Problem Solving, Team Collaboration, Self-Learner, AI-Powered Productivity, Mathematics
+- **Soft & Other Skills** : Problem Solving, Team Collaboration, Self-Learner, AI-Powered Productivity, Mathematics
 Proficiency, Presentation Skills (Gamma, Google Slides) 
 
 ---
