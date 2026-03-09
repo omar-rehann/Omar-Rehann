@@ -20,6 +20,7 @@ I am passionate about delivering efficient, user-friendly, and innovative web so
 - 🗂️ **YouTube Clone** – Frontend project featuring **CRUD operations**, clean component structure, and responsive design.  
 - 🌐 **Portfolio Website** – Showcase of projects, **UI/UX experiments**, and coding challenges using modern frontend technologies.  
 - 📝 **iNote Company** – Notes and productivity platform with **React.js frontend**, **local storage management**, and interactive user interface.  
+- 📝 **Barqq Company** – Notes and productivity platform with **React.js frontend**, **local storage management**, and interactive user interface.  
 - 📝 **Book Store** – Book Store Redux Online book store platform with**React.js frontend**, **Redux Toolkit**,**Json Server**, and interactive user interface.  
 -  ⚙️ **CRUD Operations** - Implemented full Create, Read, Delete functionality using Redux Toolkit, allowing users to add books from the home page, view all books on a dedicated page, and delete items seamlessly
 -  🛠️ **Admin Dashboard** - Implemented full Create, Read, Delete functionality using Redux Toolkit, allowing users to add books from the home page, view all books on a dedicated page, and delete items seamlessly
