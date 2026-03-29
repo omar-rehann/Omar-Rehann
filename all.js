@@ -650,7 +650,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/barqcompnay.png" style="width: 100%; alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Barq Copmany</h5>
-                                            <a href="https://omar-rehann.github.io/Medical-Website/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Barqq-Company/" class="btn">Live Demo</a>
                                         </div>
                                     </div>
                </div>
