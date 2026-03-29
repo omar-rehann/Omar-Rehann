@@ -645,6 +645,15 @@ all_links.forEach((e) => {
                                         </div>
                                     </div>
                </div>
+                  <div class="col-md-6">
+                <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/barqcompnay.png" style="width: 100%; alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Barq Copmany</h5>
+                                            <a href="https://omar-rehann.github.io/Medical-Website/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+               </div>
 
             
             `
