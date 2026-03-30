@@ -654,7 +654,15 @@ all_links.forEach((e) => {
                                         </div>
                                     </div>
                </div>
-
+  <div class="col-md-6">
+                <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/medoracenter.png" style="width: 100%; alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Medora Center</h5>
+                                            <a href="https://omar-rehann.github.io/Medora-Center/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+               </div>
             
             `
         } else if (e.id == "seven") {
