@@ -588,8 +588,7 @@ all_links.forEach((e) => {
                                         </div>
                                     </div>
                </div>
-                 <div class="col-md-6">
-               
+                
               
                <div class="col-md-6 ">
                                     <div class="card mt-2" style="width: 100%;">
