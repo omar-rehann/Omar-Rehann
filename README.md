@@ -69,6 +69,17 @@ Proficiency, Presentation Skills (Gamma, Google Slides)
 - English: Proficient  
 
 ---
+## 🧩 Problem Solving
+- Solved problems on LeetCode and Codewars, focusing on JavaScript fundamentals and algorithmic thinking
+Strong understanding of Data Structures and Algorithms (DSA) including arrays, strings, recursion, sorting, and searching techniques
+Continuously improving problem-solving skills through consistent practice and real-world coding challenges
+Applied logical thinking and optimization techniques to write efficient and clean solutions
+
+🔗 GitHub Repository:
+https://github.com/omar-rehann/Problem_Solving
+
+---
+
 
 ## 📫 Connect with Me
 - 📧 Email: [omarrehan724@gmail.com](mailto:omarrehan724@gmail.com)  
