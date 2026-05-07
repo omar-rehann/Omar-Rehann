@@ -54,12 +54,11 @@ products
 ---
 
 ## 🛠️ Skills
-- **Frontend & Web Development** :  HTML5, CSS3, Responsive Design, JavaScript (ES6+), TypeScript, React.js, Redux
-Toolkit, React Router, Bootstrap
-- **Programming & Fundamentals** :  C++, OOP, Data Structures, Algorithms, Bash Scripting 
+- **Frontend & Web Development** : HTML5, CSS3, Responsive Design, JavaScript (ES6+), TypeScript, React.js (Redux
+Toolkit, React Router), Bootstrap
 - **Tools & Productivity**:  Git, GitHub 
-- **Backend & Databases (Basic Knowledge)** :  PHP, MySQL, Database Concepts
-
+- **Backend (Basic Knowledge)** :  PHP, MySQL, Database Concepts (code reading & understanding)
+- **Programming & Fundamentals** :  C++, OOP, Data Structures, Algorithms, Bash Scripting 
 - **Soft & Other Skills** : Problem Solving, Team Collaboration, Self-Learner, AI-Powered Productivity, Mathematics
 Proficiency, Presentation Skills (Gamma, Google Slides) 
 
