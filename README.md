@@ -67,7 +67,7 @@ Proficiency, Presentation Skills (Gamma, Google Slides)
 
 ## 🌍 Languages
 - Arabic: Native  
-- English: Proficient  
+- English: [B1]  
 
 ---
 ## 🧩 Problem Solving
