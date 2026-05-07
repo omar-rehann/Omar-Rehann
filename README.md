@@ -38,7 +38,7 @@ products
 ---
 
 ### **Frontend Development Intern – CodeAlpha**  
-📅 2025  
+📅 Jun 2026 – Jul 2026
 
 - Developed responsive Front-End projects using HTML, CSS, and JavaScript  
 - Built projects like Calculator, Portfolio, Image Gallery, and Music Player  
