@@ -42,13 +42,14 @@ products
 ---
 
 ## 📜 Certificates
-- freeCodeCamp – Responsive Web Design  
+- freeCodeCamp – Responsive Web Design  , JavaScript Algorithms and Data Structures ,JavaScript 
 - Coursera – Introduction to Front-End Development  
 - CSS50 – Fundamentals of Web Development  
 - C++ Programming Certificate  
 - SDLC & Clean Code Principles  
 - OOP, Data Structures & Algorithms  
 - Soft Skills: Time Management, Communication, Presentation, Self-Learning  
+- Maharah Tech:Intensive training program covering HTML5, CSS3 (Responsive Design), JavaScript, and React fundamentals.
 
 ---
 
