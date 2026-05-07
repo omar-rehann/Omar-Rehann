@@ -7,10 +7,12 @@
 ---
 
 ## 🧑‍💻 About Me
-Frontend Developer | React.js
- skilled in **HTML, CSS, JavaScript (ES6), Bootstrap,React.js**, and **Responsive Design**.  
-I apply **Clean Code principles**, use **Git/GitHub** for version control, and have a strong foundation in **C++, OOP, Data Structures, and Algorithms**.  
-I am passionate about delivering efficient, user-friendly, and innovative web solutions.  
+Junior Front-End Developer passionate about building responsive, scalable, and user-friendly web applications using
+React.js and the modern JavaScript ecosystem. Hands-on experience developing real-world projects including Single Page
+Applications (SPAs), admin dashboards, and API-integrated applications. Skilled in JavaScript (ES6+), HTML, CSS,
+React.js, and modern UI/UX practices, with a strong focus on clean code and performance optimization. A problem-solver
+with a continuous learning mindset, currently seeking a Junior Front-End Developer role to contribute to high-quality web
+products 
 
 ---
 
