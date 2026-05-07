@@ -27,10 +27,22 @@ products
 ---
 
 ## 🏢 Experience
-**Frontend Developer Intern – ITI** (Jul 2024 – Aug 2024)  
-- Intensive training in HTML, CSS, JavaScript, Bootstrap, jQuery, and Sass  
-- Built interactive web apps following clean code practices  
-- Used Git/GitHub for collaborative development  
+
+### **Frontend Developer Intern – ITI**  
+📅 Jul 2024 – Aug 2024  
+
+- Trained in HTML, CSS, JavaScript, Bootstrap, jQuery, and Sass  
+- Built responsive web applications and interactive UI components  
+- Used Git & GitHub for version control and collaboration  
+
+---
+
+### **Frontend Development Intern – CodeAlpha**  
+📅 2025  
+
+- Developed responsive Front-End projects using HTML, CSS, and JavaScript  
+- Built projects like Calculator, Portfolio, Image Gallery, and Music Player  
+- Improved JavaScript and UI/UX development skills  
 
 ---
 
