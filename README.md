@@ -36,7 +36,14 @@ products
 - Used Git & GitHub for version control and collaboration  
 
 ---
+### **Frontend Development Intern – Codveda Technolgy**  
+📅 May 2026 -June 2026
 
+- Developed responsive Front-End projects using HTML, CSS, and JavaScript  
+- Built projects like Calculator, Portfolio, Image Gallery, and Music Player  
+- Improved JavaScript and UI/UX development skills  
+
+---
 ### **Frontend Development Intern – CodeAlpha**  
 📅 Jun 2026 – Jul 2026
 
