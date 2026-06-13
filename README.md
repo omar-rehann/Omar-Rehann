@@ -54,7 +54,7 @@ Developer role to contribute to high-quality web products.
 ---
 
 ## 🎓 Education
-**B.Sc. in Computer Science (2021 – 2024)** – Port Said University  
+**B.Sc. in Computer Science (2022 – 2025)** – Port Said University  
 - Graduated with a grade : B+
 - Graduation Project: Online Examination System using front-end technologies  
 
