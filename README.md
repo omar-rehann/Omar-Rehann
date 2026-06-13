@@ -8,18 +8,18 @@
 
 ## 🧑‍💻 About Me
 Junior Front-End Developer passionate about building responsive, scalable, and user-friendly web applications using
-React.js and the modern JavaScript ecosystem. Hands-on experience developing real-world projects including Single Page
-Applications (SPAs), admin dashboards, and API-integrated applications. Skilled in JavaScript (ES6+), HTML, CSS,
-React.js, and modern UI/UX practices, with a strong focus on clean code and performance optimization. A problem-solver
-with a continuous learning mindset, currently seeking a Junior Front-End Developer role to contribute to high-quality web
-products 
+React.js, Next.js, TypeScript, and the modern JavaScript ecosystem. Hands-on experience developing real-world projects
+including Single Page Applications (SPAs), admin dashboards, and API-integrated applications. Skilled in JavaScript
+(ES6+), TypeScript, HTML, CSS, React.js, Next.js, and modern UI/UX practices, with a strong focus on clean code and
+performance optimization. A problem-solver with a continuous learning mindset, currently seeking a Junior Front-End
+Developer role to contribute to high-quality web products.
 
 ---
 
 ## 🚀 Featured Projects
+- 🚗 **Car Marketplace** – Full Stack car listing platform with dynamic admin-managed listings, search & filtering, and detailed vehicle pages.
 - 🛒 **Medical Website** – Full frontend **e-commerce website** with product pages, categories, and responsive layout.  
-- 🤖 **E-Commerce Web Application** – Frontend clone with **React.js**, API integration, and dynamic, responsive UI.  
-- 🗂️ **YouTube Clone** – Frontend project featuring **CRUD operations**, clean component structure, and responsive design.  
+- 🤖 **E-Commerce Web Application** – Frontend clone with **React.js**, API integration, and dynamic, responsive UI.   
 - 🌐 **Portfolio Website** – Showcase of projects, **UI/UX experiments**, and coding challenges using modern frontend technologies.  
 - 📝 **iNote Company** – Notes and productivity platform with **React.js frontend**, **local storage management**, and interactive user interface.    
 -  ⚙️ **CRUD Operations** - Implemented full Create, Read, Delete functionality using Redux Toolkit, allowing users to add books from the home page, view all books on a dedicated page, and delete items seamlessly
@@ -55,7 +55,7 @@ products
 
 ## 🎓 Education
 **B.Sc. in Computer Science (2021 – 2024)** – Port Said University  
-- Strong foundation in Data Structures, Algorithms, OOP, and Applied Mathematics  
+- Graduated with a grade of "Good" (High Good)
 - Graduation Project: Online Examination System using front-end technologies  
 
 ---
@@ -73,8 +73,8 @@ products
 ---
 
 ## 🛠️ Skills
-- **Frontend & Web Development** :HTML5, CSS3, Responsive Design, JavaScript (ES6+), TypeScript, React.js (Redux
-Toolkit, React Router), Bootstrap, Tailwind CSS, React Bootstrap
+- **Frontend & Web Development**: HTML5, CSS3, Responsive Design, JavaScript (ES6+), TypeScript, React.js (Redux
+Toolkit, React Router), Next.js, Bootstrap, Tailwind CSS, React Bootstrap
 - **Tools & Productivity**:  Git, GitHub 
 - **Backend (Basic Knowledge)** :  PHP, MySQL, Database Concepts (code reading & understanding)
 - **Programming & Fundamentals** :  C++, OOP, Data Structures, Algorithms, Bash Scripting 
