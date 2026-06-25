@@ -727,12 +727,22 @@ all_links.forEach((e) => {
         } else if (e.id == "eight") {
             section.innerHTML = `
                 <div class="row">
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-6 col-lg-6">
                                     <div class="card mt-2" style="width: 100%;">
                                         <img src="imgproject/carmarketplace.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Car Marketplace</h5>
                                             <a href="https://car-marketplace-delta-smoky.vercel.app/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                 <div class="col-md-6 col-lg-6">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/appointment.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Booking Appointments</h5>
+                                            <a href="https://booking-appointment-rho.vercel.app/" class="btn">Live Demo</a>
                                         </div>
                                     </div>
 
