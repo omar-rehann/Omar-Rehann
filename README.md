@@ -18,10 +18,10 @@ Developer role to contribute to high-quality web products.
 
 ## 🚀 Featured Projects
 - 🚗 **Car Marketplace** – Full Stack car listing platform with dynamic admin-managed listings, search & filtering, and detailed vehicle pages.
-- 🛒 **Medical Website** – Full frontend **e-commerce website** with product pages, categories, and responsive layout.  
+- 🩺 **Doctor Appointment Booking System** – Built a full-stack healthcare platform using Next.js, React.js, Strapi CMS, Clerk Authentication, Tailwind CSS, and Shadcn UI. Users can browse medical specialties, view doctor profiles, book appointments, manage their bookings, and cancel upcoming appointments. Administrators can manage doctors, services, articles, specialties, and appointments through a powerful Strapi dashboard. 
 - 🤖 **E-Commerce Web Application** – Frontend clone with **React.js**, API integration, and dynamic, responsive UI.   
 - 🌐 **Portfolio Website** – Showcase of projects, **UI/UX experiments**, and coding challenges using modern frontend technologies.  
-- 📝 **iNote Company** – Notes and productivity platform with **React.js frontend**, **local storage management**, and interactive user interface.    
+ 
 -  ⚙️ **CRUD Operations** - Implemented full Create, Read, Delete functionality using Redux Toolkit, allowing users to add books from the home page, view all books on a dedicated page, and delete items seamlessly
 -  🛠️ **Admin Dashboard** - Implemented full Create, Read, Delete functionality using Redux Toolkit, allowing users to add books from the home page, view all books on a dedicated page, and delete items seamlessly
 ---
