@@ -74,7 +74,7 @@ Developer role to contribute to high-quality web products.
 
 ## 🛠️ Skills
 - **Frontend & Web Development**: HTML5, CSS3, Responsive Design, JavaScript (ES6+), TypeScript, React.js (Redux
-Toolkit, React Router), Next.js, Bootstrap, Tailwind CSS, React Bootstrap
+Toolkit, React Router), Next.js, Bootstrap, Tailwind CSS, React Bootstrap, Shadcn UI, HyperUI, UI/UX Fundamentals
 - **Tools & Productivity**:  Git, GitHub 
 - **Backend (Basic Knowledge)** :  PHP, MySQL, Database Concepts (code reading & understanding)
 - **Programming & Fundamentals** :  C++, OOP, Data Structures, Algorithms, Bash Scripting 
