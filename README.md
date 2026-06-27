@@ -7,7 +7,7 @@
 ---
 
 ## 🧑‍💻 About Me
-Junior Front-End Developer passionate about building responsive, scalable, and user-friendly web applications using
+ Front-End Developer passionate about building responsive, scalable, and user-friendly web applications using
 React.js, Next.js, TypeScript, and the modern JavaScript ecosystem. Hands-on experience developing real-world projects
 including Single Page Applications (SPAs), admin dashboards, and API-integrated applications. Skilled in JavaScript
 (ES6+), TypeScript, HTML, CSS, React.js, Next.js, and modern UI/UX practices, with a strong focus on clean code and
