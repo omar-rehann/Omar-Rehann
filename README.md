@@ -19,6 +19,8 @@ Developer role to contribute to high-quality web products.
 ## 🚀 Featured Projects
 - 🚗 **Car Marketplace** – Full Stack car listing platform with dynamic admin-managed listings, search & filtering, and detailed vehicle pages.
 - 🩺 **Doctor Appointment Booking System** – Built a full-stack healthcare platform using Next.js, React.js, Strapi CMS, Clerk Authentication, Tailwind CSS, and Shadcn UI. Users can browse medical specialties, view doctor profiles, book appointments, manage their bookings, and cancel upcoming appointments. Administrators can manage doctors, services, articles, specialties, and appointments through a powerful Strapi dashboard. 
+- 🛒 **Grocery Store (Full Stack)** – Full-stack grocery e-commerce platform with **React.js**, **Next.js**, **Clerk** authentication, **Stripe** payments, and a full admin dashboard for product management.
+
 - 🤖 **E-Commerce Web Application** – Frontend clone with **React.js**, API integration, and dynamic, responsive UI.   
 - 🌐 **Portfolio Website** – Showcase of projects, **UI/UX experiments**, and coding challenges using modern frontend technologies.  
  
