@@ -27,6 +27,13 @@ Developer role to contribute to high-quality web products.
 ---
 
 ## 🏢 Experience
+### **Front-End Instructor (React.js & Next.js) Techno Square**  
+📅 April 2026 – July 2026
+
+- Taught Front-End Development fundamentals and modern practices, focusing on React.js and Next.js.
+- Delivered hands-on training covering component-based architecture, state management, and API integration.
+- Guided trainees through building real-world projects, reinforcing best practices in clean code and UI/UX.
+- Provided mentorship and code reviews to help trainees improve problem-solving and debugging skills.
 
 ### **Frontend Developer Intern – ITI**  
 📅 Jul 2024 – Aug 2024  
