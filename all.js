@@ -732,6 +732,17 @@ all_links.forEach((e) => {
                                         <img src="imgproject/carmarketplace.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Car Marketplace</h5>
+                                             <div class="mb-3 mt-2">
+            <span class="badge bg-primary me-1">React js</span>
+            <span class="badge bg-dark me-1">Next.js</span>
+            <span class="badge bg-secondary me-1">Neon</span>
+            <span class="badge bg-success me-1">PostgreSQL</span>
+            <span class="badge bg-info text-dark me-1">shadcn/ui</span>
+            <span class="badge bg-warning text-dark me-1">Tailwind CSS</span>
+            <span class="badge bg-danger">Hyper UI</span>
+                        <span class="badge bg-danger">Clerk</span>
+
+        </div>
                                             <a href="https://car-marketplace-delta-smoky.vercel.app/" class="btn">Live Demo</a>
                                         </div>
                                     </div>
@@ -742,6 +753,16 @@ all_links.forEach((e) => {
                                         <img src="imgproject/appointment.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Booking Appointments</h5>
+                                             <div class="mb-3 mt-2">
+            <span class="badge bg-primary me-1">React js</span>
+            <span class="badge bg-dark me-1">Next.js</span>
+            <span class="badge bg-secondary me-1">Starpi </span>
+            <span class="badge bg-info text-dark me-1">shadcn/ui</span>
+            <span class="badge bg-warning text-dark me-1">Tailwind CSS</span>
+            <span class="badge bg-danger">Hyper UI</span>
+                                    <span class="badge bg-danger">Clerk</span>
+
+        </div>
                                             <a href="https://booking-appointment-rho.vercel.app/" class="btn">Live Demo</a>
                                         </div>
                                     </div>
@@ -752,6 +773,20 @@ all_links.forEach((e) => {
                                         <img src="imgproject/taxi.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Taxi Booking</h5>
+                                               <span class="badge bg-primary me-1">React js</span>
+            <span class="badge bg-dark me-1">Next.js</span>
+            <span class="badge bg-secondary me-1">Starpi </span>
+            <span class="badge bg-info text-dark me-1">shadcn/ui</span>
+            <span class="badge bg-warning text-dark me-1">Tailwind CSS</span>
+            <span class="badge bg-danger">Hyper UI</span>
+            <span class="badge bg-danger">Clerk</span>
+            <span class="badge bg-danger">Sonner</span>
+            <span class="badge bg-danger">TypeScript</span>
+            <span class="badge bg-danger">Nominatim (OpenStreetMap)</span>
+
+
+
+                                            
                                             <a href="https://taxi-booking-a5j6.vercel.app/" class="btn">Live Demo</a>
                                         </div>
                                     </div>
