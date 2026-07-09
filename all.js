@@ -798,16 +798,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/Macbook-Air-localhost (38).png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Grocery Store</h5>
-                                            <div class="card mt-2" style="width: 100%;">
-    <img src="imgproject/carmarketplace.png"
-         style="width: 100%; height: 200px;"
-         class="card-img-top rounded"
-         alt="Car Marketplace">
-
-    <div class="card-body">
-        <h5 class="card-title">Car Marketplace</h5>
-
-        <div class="mb-3">
+                                              <div class="mb-3">
             <span class="badge bg-primary me-1">React</span>
             <span class="badge bg-dark me-1">Next.js</span>
             <span class="badge bg-secondary me-1">Neon</span>
@@ -816,12 +807,6 @@ all_links.forEach((e) => {
             <span class="badge bg-warning text-dark me-1">Tailwind CSS</span>
             <span class="badge bg-danger">Hyper UI</span>
         </div>
-
-        <a href="https://car-marketplace-delta-smoky.vercel.app/" class="btn">
-            Live Demo
-        </a>
-    </div>
-</div>
                                             <a href="https://github.com/omar-rehann/Grocery-Store.git" class="btn">Git Repo</a>
                                         </div>
                                     </div>
