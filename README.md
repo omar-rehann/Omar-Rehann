@@ -27,7 +27,6 @@ Students take scheduled exams and review results/answers after submission.
 - 🛒 **Grocery Store (Full Stack)** – Full-stack grocery e-commerce platform with **React.js**, **Next.js**, **Clerk** authentication, **Stripe** payments, and a full admin dashboard for product management.
 - 🚖**Taxi Booking (Full Stack)** is a full-stack taxi booking application built with **Next.js, TypeScript, and Strapi**, featuring secure authentication with Clerk, ride booking, interactive maps, and booking history management. Users can book rides, track destinations on a live map, manage their bookings, and receive real-time toast notifications through a modern, responsive UI powered by Tailwind CSS and shadcn/ui.
 
--  🛠️ **Admin Dashboard** - Implemented full Create, Read, Delete functionality using Redux Toolkit, allowing users to add books from the home page, view all books on a dedicated page, and delete items seamlessly
 ---
 
 ## 🏢 Experience
