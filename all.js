@@ -749,16 +749,6 @@ all_links.forEach((e) => {
                                 </div>
                                  <div class="col-md-6 col-lg-6">
                                     <div class="card mt-2" style="width: 100%;">
-                                        <img src="imgproject/Macbook-Air-localhost (38).png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
-                                        <div class="card-body">
-                                            <h5 class="card-title">Grocery Store</h5>
-                                            <a href="https://github.com/omar-rehann/Grocery-Store.git" class="btn">Git Repo</a>
-                                        </div>
-                                    </div>
-
-                                </div>
-                                   <div class="col-md-6 col-lg-6">
-                                    <div class="card mt-2" style="width: 100%;">
                                         <img src="imgproject/taxi.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Taxi Booking</h5>
@@ -768,6 +758,17 @@ all_links.forEach((e) => {
 
                                 </div>
                   
+                                 <div class="col-md-6 col-lg-6">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/Macbook-Air-localhost (38).png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Grocery Store</h5>
+                                            <a href="https://github.com/omar-rehann/Grocery-Store.git" class="btn">Git Repo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                  
                     
                     
                     
