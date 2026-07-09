@@ -806,6 +806,8 @@ all_links.forEach((e) => {
             <span class="badge bg-info text-dark me-1">shadcn/ui</span>
             <span class="badge bg-warning text-dark me-1">Tailwind CSS</span>
             <span class="badge bg-danger">Hyper UI</span>
+                        <span class="badge bg-danger"> Clerk</span>
+
         </div>
                                             <a href="https://github.com/omar-rehann/Grocery-Store.git" class="btn">Git Repo</a>
                                         </div>
