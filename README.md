@@ -35,8 +35,8 @@ Students take scheduled exams and review results/answers after submission.
 
 - Taught Front-End Development fundamentals and modern practices, focusing on React.js and Next.js.
 - Delivered hands-on training covering component-based architecture, state management, and API integration.
-- Guided trainees through building real-world projects, reinforcing best practices in clean code and UI/UX.
-- Provided mentorship and code reviews to help trainees improve problem-solving and debugging skills.
+- Mentored and trained 100+ students in React.js and Next.js through hands-on projects and practical coding
+sessions.- Provided mentorship and code reviews to help trainees improve problem-solving and debugging skills.
 ---
 
 ### **Frontend Developer Intern – ITI**  
