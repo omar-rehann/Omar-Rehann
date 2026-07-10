@@ -13,7 +13,7 @@ platforms, admin dashboards, and Single Page Applications (SPAs), with REST API 
 Proficient in JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, and modern UI development practices.
 Experienced in integrating authentication (Clerk), databases (PostgreSQL), and CMS platforms (Strapi) into production-
 ready applications. Passionate about clean code and continuous learning, seeking a Junior Front-End Developer role to
-contribute to high-quality, scalable web products
+contribute to high-quality, scalable web products.
 
 ---
 
