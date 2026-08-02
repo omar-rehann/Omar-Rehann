@@ -820,6 +820,27 @@ all_links.forEach((e) => {
                     
                    
             </div>
+              <div class="col-md-6 col-lg-6">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/homeservices.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Home Services</h5>
+                                             <div class="mb-3 mt-2">
+            <span class="badge bg-primary me-1">React js</span>
+            <span class="badge bg-dark me-1">Next.js</span>
+            <span class="badge bg-secondary me-1">Starpi </span>
+            <span class="badge bg-success me-1">Reliway</span>
+            <span class="badge bg-info text-dark me-1">shadcn/ui</span>
+            <span class="badge bg-warning text-dark me-1">Tailwind CSS</span>
+            <span class="badge bg-danger">Hyper UI</span>
+                        <span class="badge bg-danger">Clerk</span>
+
+        </div>
+                                            <a href="https://car-marketplace-delta-smoky.vercel.app/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
             
             `
         } else {
