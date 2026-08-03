@@ -23,6 +23,11 @@ Students take scheduled exams and review results/answers after submission.
 - 🩺 **Doctor Appointment Booking System** – Built a full-stack healthcare platform using Next.js, React.js, Strapi CMS, Clerk Authentication, Tailwind CSS, and Shadcn UI. Users can browse medical specialties, view doctor profiles, book appointments, manage their bookings, and cancel upcoming appointments. Administrators can manage doctors, services, articles, specialties, and appointments through a powerful Strapi dashboard. 
 - 🛒 **Grocery Store (Full Stack)** – Full-stack grocery e-commerce platform with **React.js**, **Next.js**, **Clerk** authentication, **Stripe** payments, and a full admin dashboard for product management.
 - 🚖**Taxi Booking (Full Stack)** is a full-stack taxi booking application built with **Next.js, TypeScript, and Strapi**, featuring secure authentication with Clerk, ride booking, interactive maps, and booking history management. Users can book rides, track destinations on a live map, manage their bookings, and receive real-time toast notifications through a modern, responsive UI powered by Tailwind CSS and shadcn/ui.
+-🏠**Home Services Platform**
+• Built a full-stack home services booking platform featuring multiple service categories such as Cleaning, Repair, Painting, Shifting, Plumbing, and Electrical Services, with dynamic category and service details pages.
+• Integrated Strapi as a headless CMS for managing services and categories, implemented secure user authentication with Clerk, and developed a booking system that enables users to reserve services instantly.
+• Developed a modern, fully responsive, mobile-first user interface using Next.js, React, Tailwind CSS, and shadcn/ui, enhanced with related service recommendations, Font Awesome icons, and SweetAlert2 for interactive user feedback.
+
 
 ---
 
