@@ -7,10 +7,10 @@
 ---
 
 ## 🧑‍💻 About Me
-Front-End Developer specializing in React.js and Next.js, with hands-on experience building full-stack platforms, admin
-dashboards, and SPAs using REST APIs and authentication (Clerk). Skilled in JavaScript (ES6+), TypeScript, Tailwind
-CSS, and integrating databases (PostgreSQL) and CMS platforms (Strapi) into production-ready apps. Seeking a
-Front-End role to build high-quality, scalable web applications.
+Front-End Developer specializing in React.js and Next.js, with hands-on experience building responsive web applications
+and reusable UI components. Built projects including Grocery Store, Doctor Appointment Booking, Home Services
+Platform, and Car Marketplace. Experienced as a Front-End Instructor, mentoring 100+ students, with internship
+experience in REST API integration and responsive UI development.
 
 ---
 
