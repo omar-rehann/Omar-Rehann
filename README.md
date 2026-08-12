@@ -38,6 +38,12 @@ Students take scheduled exams and review results/answers after submission.
 - Mentored and trained 100+ students in React.js and Next.js through hands-on projects and practical coding
 sessions.- Provided mentorship and code reviews to help trainees improve problem-solving and debugging skills.
 ---
+### **Frontend Developer Intern – Hex Software **  
+📅 Jul 2025 – Aug 2025  
+
+- Trained in HTML, CSS, JavaScript, Bootstrap, jQuery, and Sass  
+- Built responsive web applications and interactive UI components  
+- Used Git & GitHub for version control and collaboration  
 
 ### **Frontend Developer Intern – ITI**  
 📅 Jul 2024 – Aug 2024  
