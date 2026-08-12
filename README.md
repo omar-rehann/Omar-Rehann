@@ -44,7 +44,7 @@ sessions.- Provided mentorship and code reviews to help trainees improve problem
 - Trained in HTML, CSS, JavaScript, Bootstrap, jQuery, and Sass  
 - Built responsive web applications and interactive UI components  
 - Used Git & GitHub for version control and collaboration  
-
+---
 ### **Frontend Developer Intern – ITI**  
 📅 Jul 2024 – Aug 2024  
 
