@@ -793,33 +793,6 @@ all_links.forEach((e) => {
 
                                 </div>
                   
-                                 <div class="col-md-6 col-lg-6">
-                                    <div class="card mt-2" style="width: 100%;">
-                                        <img src="imgproject/Macbook-Air-localhost (38).png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
-                                        <div class="card-body">
-                                            <h5 class="card-title">Grocery Store</h5>
-                                              <div class="mb-3">
-            <span class="badge bg-primary me-1">React</span>
-            <span class="badge bg-dark me-1">Next.js</span>
-            <span class="badge bg-secondary me-1">Neon</span>
-            <span class="badge bg-success me-1">PostgreSQL</span>
-            <span class="badge bg-info text-dark me-1">shadcn/ui</span>
-            <span class="badge bg-warning text-dark me-1">Tailwind CSS</span>
-            <span class="badge bg-danger">Hyper UI</span>
-                        <span class="badge bg-danger"> Clerk</span>
-
-        </div>
-                                            <a href="https://github.com/omar-rehann/Grocery-Store.git" class="btn">Git Repo</a>
-                                        </div>
-                                    </div>
-
-                                </div>
-                                  
-                    
-                    
-                    
-                   
-            </div>
               <div class="col-md-6 col-lg-6">
                                     <div class="card mt-2" style="width: 100%;">
                                         <img src="imgproject/homeservices.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
@@ -839,8 +812,41 @@ all_links.forEach((e) => {
                                             <a href="https://car-marketplace-delta-smoky.vercel.app/" class="btn">Live Demo</a>
                                         </div>
                                     </div>
+                                    
 
                                 </div>
+                                <div class="col-md-6 col-lg-6">
+    <div class="card mt-2" style="width: 100%;">
+        <img src="imgproject/Macbook-Air-localhost (38).png"
+             style="width: 100%; height: 200px;"
+             class="card-img-top rounded"
+             alt="Grocery Store">
+
+        <div class="card-body">
+            <h5 class="card-title">Grocery Store</h5>
+
+            <div class="mb-3">
+                <span class="badge bg-primary me-1">React</span>
+                <span class="badge bg-dark me-1">Next.js</span>
+                <span class="badge bg-secondary me-1">Neon</span>
+                <span class="badge bg-success me-1">PostgreSQL</span>
+                <span class="badge bg-info text-dark me-1">shadcn/ui</span>
+                <span class="badge bg-warning text-dark me-1">Tailwind CSS</span>
+                <span class="badge bg-danger me-1">Hyper UI</span>
+                <span class="badge bg-danger">Clerk</span>
+            </div>
+
+            <p class="text-muted mb-3" style="font-size: 14px;">
+                Note: Strapi must be running for the project to work fully.
+            </p>
+
+            <a href="https://github.com/omar-rehann/Grocery-Store.git"
+               class="btn">
+                Git Repo
+            </a>
+        </div>
+    </div>
+</div>
             
             `
         } else {
