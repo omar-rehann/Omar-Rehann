@@ -761,6 +761,8 @@ all_links.forEach((e) => {
             <span class="badge bg-warning text-dark me-1">Tailwind CSS</span>
             <span class="badge bg-danger">Hyper UI</span>
                                     <span class="badge bg-danger">Clerk</span>
+                                                                        <span class="badge bg-danger">Sweet Alert</span>
+
 
         </div>
                                             <a href="https://doctor-appointments-blond.vercel.app/" class="btn">Live Demo</a>
