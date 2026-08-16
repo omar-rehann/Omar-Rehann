@@ -763,7 +763,7 @@ all_links.forEach((e) => {
                                     <span class="badge bg-danger">Clerk</span>
 
         </div>
-                                            <a href="https://booking-appointment-rho.vercel.app/" class="btn">Live Demo</a>
+                                            <a href="https://doctor-appointments-blond.vercel.app/" class="btn">Live Demo</a>
                                         </div>
                                     </div>
 
