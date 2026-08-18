@@ -851,6 +851,41 @@ all_links.forEach((e) => {
 </div>
             
             `
+        } else if (e.id == "nine") {
+            section.innerHTML = `
+        <div class="row">
+            <div class="col-md-6 col-lg-6">
+                <div class="card mt-2" style="width: 100%;">
+                    <img src="imgproject/tcf.png"
+                         style="width: 100%; height: 200px;"
+                         class="card-img-top rounded"
+                         alt="Technology-Security-System">
+
+                    <div class="card-body">
+                        <h5 class="card-title">Technology-Security-System</h5>
+
+                        <div class="mb-3">
+                            <span class="badge bg-primary me-1">React</span>
+                            <span class="badge bg-dark me-1">Next.js</span>
+                            <span class="badge bg-secondary me-1">Railway</span>
+                            <span class="badge bg-success me-1">Strapi</span>
+                            <span class="badge bg-info text-dark me-1">shadcn/ui</span>
+                            <span class="badge bg-warning text-dark me-1">Tailwind CSS</span>
+                            <span class="badge bg-danger me-1">Hyper UI</span>
+                            <span class="badge bg-danger">Clerk</span>
+                        </div>
+
+                        
+
+                        <a href="https://technology-security-system.vercel.app/"
+                           class="btn">
+                            Live Demo
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    `;
         } else {
             section.innerHTML = `
               <div class="row">
