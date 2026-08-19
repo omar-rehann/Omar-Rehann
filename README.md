@@ -7,10 +7,9 @@
 ---
 
 ## 🧑‍💻 About Me
-Front-End Developer specializing in React.js and Next.js, with hands-on experience building responsive web applications
-and reusable UI components. Built projects including Grocery Store, Doctor Appointment Booking, Home Services
-Platform, and Car Marketplace. Experienced as a Front-End Instructor, mentoring 100+ students, with internship
-experience in REST API integration and responsive UI development.
+Front-End Developer specializing in React.js and Next.js, with hands-on experience delivering 4+ production-ready web
+applications including authentication, CMS integration, and admin dashboards. Front-End Instructor with experience
+mentoring 100+ students in component-based architecture and modern JavaScript frameworks..
 
 ---
 
