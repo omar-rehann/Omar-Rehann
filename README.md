@@ -29,6 +29,14 @@ Students take scheduled exams and review results/answers after submission.
 ---
 
 ## 🏢 Experience
+### **Freelance Front-End Developer (Zero Tech )**  
+📅 April 2026
+
+- Architected a responsive security systems e-commerce site with Next.js/React.js, including product filtering, cart,
+Clerk auth, and RTL support .
+- Gathered client requirements independently and delivered Phase 1 on schedule; planned multi-language and Dark/Light
+Mode support..
+---
 ### **Front-End Instructor (React.js & Next.js) Techno Square**  
 📅 April 2026 – July 2026
 
