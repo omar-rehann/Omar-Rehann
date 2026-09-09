@@ -886,6 +886,47 @@ all_links.forEach((e) => {
             </div>
         </div>
     `;
+        } else if (e.id == "ten") {
+            section.innerHTML = `
+        <div class="row">
+            <div class="col-md-6 col-lg-6">
+                <div class="card mt-2" style="width: 100%;">
+                    <img src="imgproject/food.png"
+                         style="width: 100%; height: 200px;"
+                         class="card-img-top rounded"
+                         alt="Technology-Security-System">
+
+                    <div class="card-body">
+                        <h5 class="card-title">Food Restaurant Management Ordering Platform</h5>
+
+                        <div class="mb-3">
+                            <span class="badge bg-primary me-1">MongoDB</span>
+                            <span class="badge bg-dark me-1">Express.js</span>
+                            <span class="badge bg-dark me-1">ENode.js</span>
+                            <span class="badge bg-danger">Mongoose</span>
+                            <span class="badge bg-danger">JWT</span>
+                            <span class="badge bg-danger">Supabase Storage</span>
+                            <span class="badge bg-secondary me-1">React.js</span>
+                            <span class="badge bg-success me-1"> Next.js</span>
+                            <span class="badge bg-info text-dark me-1">shadcn/ui</span>
+                            <span class="badge bg-warning text-dark me-1">Tailwind CSS</span>
+                            <span class="badge bg-danger me-1">Hyper UI</span>
+                            <span class="badge bg-warning text-dark me-1">React
+Bootstrap</span>
+
+                        </div>
+
+                        
+
+                        <a href="https://food-resturant-pagf.vercel.app/"
+                           class="btn">
+                            Live Demo
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    `;
         } else {
             section.innerHTML = `
               <div class="row">
