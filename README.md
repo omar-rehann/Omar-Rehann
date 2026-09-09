@@ -7,9 +7,10 @@
 ---
 
 ## 🧑‍💻 About Me
-Front-End Developer specializing in React.js and Next.js, with hands-on experience delivering 4+ production-ready web
-applications including authentication, CMS integration, and admin dashboards. Front-End Instructor with experience
-mentoring 100+ students in component-based architecture and modern JavaScript frameworks..
+Junior MERN Stack Developer with hands-on experience building full-stack web applications using MongoDB, Express.js,
+React.js, and Node.js. Experienced in developing RESTful APIs, authentication and authorization, admin dashboards,
+CRUD operations, database integration, supabase image storage, and deploying applications to production. Strong
+foundation in responsive frontend development with React.js and Next.js.
 
 ---
 
@@ -20,11 +21,7 @@ Doctors create courses & exams (5 question types), grade essays manually, contro
 Students take scheduled exams and review results/answers after submission.
 - 🚗 **Car Marketplace** – Full Stack car listing platform with dynamic admin-managed listings, search & filtering, and detailed vehicle pages.
 - 🩺 **Doctor Appointment Booking System** – Built a full-stack healthcare platform using Next.js, React.js, Strapi CMS, Clerk Authentication, Tailwind CSS, and Shadcn UI. Users can browse medical specialties, view doctor profiles, book appointments, manage their bookings, and cancel upcoming appointments. Administrators can manage doctors, services, articles, specialties, and appointments through a powerful Strapi dashboard. 
-- 🛒 **Grocery Store (Full Stack)** – Full-stack grocery e-commerce platform with **React.js**, **Next.js**, **Clerk** authentication, **Stripe** payments, and a full admin dashboard for product management.
-- 🚖**Taxi Booking (Full Stack)** is a full-stack taxi booking application built with **Next.js, TypeScript, and Strapi**, featuring secure authentication with Clerk, ride booking, interactive maps, and booking history management. Users can book rides, track destinations on a live map, manage their bookings, and receive real-time toast notifications through a modern, responsive UI powered by Tailwind CSS and shadcn/ui.
-- 🏠**Home Services Platform (Full Stack)** • Built a full-stack home services booking platform featuring multiple service categories such as Cleaning, Repair, Painting, Shifting, Plumbing, and Electrical Services, with dynamic category and service details pages.
- Integrated Strapi as a headless CMS for managing services and categories, implemented secure user authentication with Clerk, and developed a booking system that enables users to reserve services instantly.
- Developed a modern, fully responsive, mobile-first user interface using Next.js, React, Tailwind CSS, and shadcn/ui, enhanced with related service recommendations, Font Awesome icons, and SweetAlert2 for interactive user feedback.
+
 
 ---
 
