@@ -21,8 +21,10 @@ Doctors create courses & exams (5 question types), grade essays manually, contro
 Students take scheduled exams and review results/answers after submission.
 - 🚗 **Car Marketplace** – Full Stack car listing platform with dynamic admin-managed listings, search & filtering, and detailed vehicle pages.
 - 🩺 **Doctor Appointment Booking System** – Built a full-stack healthcare platform using Next.js, React.js, Strapi CMS, Clerk Authentication, Tailwind CSS, and Shadcn UI. Users can browse medical specialties, view doctor profiles, book appointments, manage their bookings, and cancel upcoming appointments. Administrators can manage doctors, services, articles, specialties, and appointments through a powerful Strapi dashboard. 
-
-
+- 🍽️ **Food Restaurant Management Ordering Platform** –  Developed a full-stack restaurant platform designed to support online food ordering and restaurant management through
+dedicated customer and admin interfaces,  Built a customer-facing platform that allows users to browse food categories, explore menu items, manage their cart,
+and place food orders through a responsive interface, Developed an admin dashboard for managing the restaurant’s menu, categories, food items, and operational data
+through a centralized management system
 ---
 
 ## 🏢 Experience
