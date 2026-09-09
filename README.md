@@ -98,8 +98,10 @@ sessions.- Provided mentorship and code reviews to help trainees improve problem
 ## 🛠️ Skills
 - **Frontend & Web Development**: HTML5, CSS3, Responsive Design, JavaScript (ES6+), TypeScript, React.js (Redux
 Toolkit, React Router), Next.js, Bootstrap, Tailwind CSS, React Bootstrap, Shadcn UI, HyperUI, UI/UX Fundamentals
-- **Tools & Productivity**:  Git, GitHub ,Performance Optimization
-- **Backend Fundamentals** :  PHP, MySQL, Database Concepts (code reading & understanding)
+- **Tools & Productivity**:  Git, GitHub ,Vercel
+**Backend Development:** Node.js, Express.js, RESTful APIs, Authentication & Authorization (JWT, Clerk), CRUD
+Operations, Middleware, Strapi CM
+- **Database & Storage** :  MongoDB, Mongoose, Supabase Storage, Database Design & Integration
 - **Programming & Fundamentals** :  C++, OOP, Data Structures, Algorithms, Bash Scripting 
 - **Soft & Other Skills** : Problem Solving, Team Collaboration, Self-Learner, AI-Powered Productivity, Mathematics
 Proficiency, Presentation Skills (Gamma, Google Slides) 
