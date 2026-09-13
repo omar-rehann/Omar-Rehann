@@ -104,7 +104,6 @@ sessions.- Provided mentorship and code reviews to help trainees improve problem
 - **Soft & Other Skills**: Problem Solving, Team Collaboration, Self-Learner, AI-Powered Productivity, Mathematics Proficiency, Presentation Skills (Gamma, Google Slides) 
 
 ---
-
 ## 🌍 Languages
 - Arabic: Native  
 - English: [B1]  
