@@ -83,6 +83,25 @@ sessions.- Provided mentorship and code reviews to help trainees improve problem
 
 ---
 
+## 📚 Training
+### **LinkedIn & Job Ready Training – ITIDA**  
+📅 2025
+
+- Completed a one-week training covering CV writing, ATS optimization, LinkedIn profile building, and professional job application skills.
+- Applied the training by rebuilding my CV and LinkedIn profile, achieving an evaluation score of 8/10.
+---
+### **Freelancing Training – ITIDA**  
+📅 2025
+
+- Completed a two-week training focused on freelancing fundamentals, building a professional profile, finding clients, and creating effective proposals.
+---
+### **Front-End Development Trainee – ITI**  
+📅 2024
+
+- Completed a two-month, 120-hour hybrid Front-End Development training program covering HTML5, CSS3, JavaScript, Bootstrap, and SASS, with hands-on development of responsive web applications.
+
+---
+
 ## 📜 Certificates
 - freeCodeCamp – Responsive Web Design  , JavaScript Algorithms and Data Structures ,JavaScript 
 - Coursera – Introduction to Front-End Development  
@@ -96,12 +115,15 @@ sessions.- Provided mentorship and code reviews to help trainees improve problem
 ---
 
 ## 🛠️ Skills
-- **Frontend & Web Development**: HTML5, CSS3, Responsive Design, JavaScript (ES6+), TypeScript, React.js (Redux Toolkit, React Router), Next.js, Bootstrap, Tailwind CSS, React Bootstrap, Shadcn UI, HyperUI, UI/UX Fundamentals
-- **Tools & Productivity**: Git, GitHub, Vercel
-- **Backend Development**: Node.js, Express.js, RESTful APIs, Authentication & Authorization (JWT, Clerk), CRUD Operations, Middleware, Strapi CMS
-- **Database & Storage**: MongoDB, Mongoose, Supabase Storage, Database Design & Integration
-- **Programming Fundamentals**: C++, OOP, Data Structures & Algorithms, Bash Scripting
-- **Soft & Other Skills**: Problem Solving, Team Collaboration, Self-Learner, AI-Powered Productivity, Mathematics Proficiency, Presentation Skills (Gamma, Google Slides) 
+• **Frontend Development**: HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js  
+• **UI & Styling**: Tailwind CSS, Bootstrap, React Bootstrap, Shadcn UI, HyperUI, Responsive Design  
+• **State & Routing**: React Hooks, Redux Toolkit, React Router  
+• **Backend Development**: Node.js, Express.js, RESTful APIs, Strapi CMS  
+• **Database**: MongoDB, Mongoose, Supabase Storage, Database Design & Integration  
+• **Authentication & Security**: JWT, Clerk, Role-Based Authentication  
+• **Programming Fundamentals**: C++, OOP, Data Structures & Algorithms, Bash Scripting  
+• **Tools & Workflow**: Git, GitHub, Vercel  
+• **Soft Skills**: Problem Solving, Teaching & Mentoring, Communication, Teamwork & Collaboration, Presentation Skills (Gamma, Google Slides)
 
 ---
 ## 🌍 Languages
