@@ -127,4 +127,4 @@ https://github.com/omar-rehann/Problem_Solving
 - 🐦 Twitter (X): [twitter.com/omarrehan](https://twitter.com/omarrehan)  
 - 📘 Facebook: [facebook.com/omar.rehan](https://www.facebook.com/omar.rehan)  
 - 📷 Instagram: [instagram.com/omar-rehann](https://www.instagram.com/omar-rehann)  
-- 🌐 Portfolio: [omar-rehann.github.io/Omar-Rehann](https://omar-rehann.github.io/Omar-Rehann/)  
+- 🌐 Portfolio: [omar-rehann.github.io/Omar-Rehann](https://omar-rehann.github.io/Omar-Rehann/)
