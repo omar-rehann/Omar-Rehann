@@ -7,11 +7,10 @@
 ---
 
 ## 🧑‍💻 About Me
-Junior MERN Stack Developer with hands-on experience building full-stack web applications using MongoDB, Express.js,
-React.js, and Node.js. Experienced in developing RESTful APIs, authentication and authorization, admin dashboards,
-CRUD operations, database integration, supabase image storage, and deploying applications to production. Strong
-foundation in responsive frontend development with React.js and Next.js.
-
+Full-Stack Developer specialized in building production-ready web applications using the MERN Stack. Delivered 3+
+complete platforms (Doctor Appointment, Restaurant Ordering, and Car Marketplace) with strong focus on performance,
+user experience, and security. Mentored 100+ students on React.js and Next.js. Seeking a Full-Stack or Front-End role to
+contribute to scalable products .
 ---
 
 ## 🚀 Featured Projects
