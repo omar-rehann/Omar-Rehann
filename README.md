@@ -7,7 +7,7 @@
 ---
 
 ## 🧑‍💻 About Me
-Full-Stack Developer specialized in building production-ready web applications using the MERN Stack. Built and deployed 3+ complete platforms, including Doctor Appointment Management, Restaurant Ordering, and Car Marketplace applications, with a strong focus on performance, user experience, security, and maintainable code. Experienced in React.js and Next.js, with 100+ students mentored in practical front-end development. Seeking a Full-Stack or Front-End Developer role to contribute to scalable and user-focused products.
+Full-Stack Developer specializing in MERN Stack and production-ready web applications. Built and deployed 3+ full-stack platforms, including Doctor Appointment, Restaurant Ordering, and Car Marketplace applications. Experienced in React.js, Next.js, Node.js, and MongoDB, with a strong focus on performance, user experience, and clean code.
 ---
 
 ## 🚀 Featured Projects
