@@ -14,8 +14,8 @@ Tech Stack I work with:
 
 Frontend: React.js, Next.js (App Router), TypeScript, Tailwind CSS, shadcn/ui
 Backend: Node.js, Express.js, MongoDB, Mongoose
-Auth & Tools: JWT, Clerk, Git, Vercel, ImageKit/Cloudinary
-
+Auth & Tools: JWT, Clerk, Git, Vercel, ImageKit/Cloudinary .
+ 
 
 
 ---
