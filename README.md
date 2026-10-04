@@ -17,8 +17,7 @@ Backend: Node.js, Express.js, MongoDB, Mongoose
 Auth & Tools: JWT, Clerk, Git, Vercel, ImageKit/Cloudinary
 
 
-I'm always looking for opportunities to build scalable products and collaborate with great teams. Open to Full-Stack or Front-End roles.
-Feel free to check my projects or reach out!
+
 ---
 
 ## 🚀 Featured Projects
