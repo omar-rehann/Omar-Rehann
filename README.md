@@ -7,7 +7,17 @@
 ---
 
 ## 🧑‍💻 About Me
-Full-Stack Developer specializing in MERN Stack and production-ready web applications. Built and deployed 3+ full-stack platforms, including Doctor Appointment, Restaurant Ordering, and Car Marketplace applications. Experienced in React.js, Next.js, Node.js, and MongoDB, with a strong focus on performance, user experience, and clean code.
+Full-Stack Developer specialized in the MERN Stack, with hands-on experience building production-ready web applications from scratch.
+I have delivered 3+ complete platforms including a Doctor Appointment Management System, a Restaurant Ordering Platform, and a Car Marketplace — focusing on performance, clean architecture, security (JWT & role-based access), and great user experience.
+Currently working as a Freelance Full-Stack Developer, where I own projects end-to-end (from requirements gathering to deployment). Previously fixed critical post-launch issues on a React real-estate platform and taught React.js & Next.js to 100+ students, helping them improve code quality and follow best practices.
+Tech Stack I work with:
+
+Frontend: React.js, Next.js (App Router), TypeScript, Tailwind CSS, shadcn/ui
+Backend: Node.js, Express.js, MongoDB, Mongoose
+Auth & Tools: JWT, Clerk, Git, Vercel, ImageKit/Cloudinary
+
+I'm always looking for opportunities to build scalable products and collaborate with great teams. Open to Full-Stack or Front-End roles.
+Feel free to check my projects or reach out!
 ---
 
 ## 🚀 Featured Projects
