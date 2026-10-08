@@ -1,158 +1,280 @@
-# 👋 Hi, I'm Omar Rehan  
+ <!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:06B6D4&height=200&section=header&text=Omar%20Rehan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
-🎓 **Computer Science Graduate (2025)** – Faculty of Science, Port Said University  
-💻 **Front-End Developer** specialized in building interactive and responsive web interfaces  
-🌍 Passionate about problem-solving, clean UI/UX, and global tech standards  
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Turning+Ideas+Into+Working+Products" alt="Typing animation" />
+</h3>
 
----
-
-## 🧑‍💻 About Me
-Full-Stack Developer specialized in the MERN Stack, with hands-on experience building production-ready web applications from scratch.
-I have delivered 3+ complete platforms including a Doctor Appointment Management System, a Restaurant Ordering Platform, and a Car Marketplace — focusing on performance, clean architecture, security (JWT & role-based access), and great user experience.
-Currently working as a Freelance Full-Stack Developer, where I own projects end-to-end (from requirements gathering to deployment). Previously fixed critical post-launch issues on a React real-estate platform and taught React.js & Next.js to 100+ students, helping them improve code quality and follow best practices.
-Tech Stack I work with:
-
-Frontend: React.js, Next.js (App Router), TypeScript, Tailwind CSS, shadcn/ui
-Backend: Node.js, Express.js, MongoDB, Mongoose
-Auth & Tools: JWT, Clerk, Git, Vercel, ImageKit/Cloudinary .
- 
-
-
----
-
-## 🚀 Featured Projects
-- 📝 **Online Exam Management Platform** – Full-stack exam system with role-based access for Admin, Doctor, and Student dashboards.
-Admins manage accounts with bulk Excel import/export and view platform-wide results.
-Doctors create courses & exams (5 question types), grade essays manually, control result visibility, and manage exams via Trash/restore.
-Students take scheduled exams and review results/answers after submission.
-- 🚗 **Car Marketplace** – Full Stack car listing platform with dynamic admin-managed listings, search & filtering, and detailed vehicle pages.
-- 🩺 **Doctor Appointment Booking System** – Built a full-stack healthcare platform using Next.js, React.js, Strapi CMS, Clerk Authentication, Tailwind CSS, and Shadcn UI. Users can browse medical specialties, view doctor profiles, book appointments, manage their bookings, and cancel upcoming appointments. Administrators can manage doctors, services, articles, specialties, and appointments through a powerful Strapi dashboard. 
-- 🍽️ **Food Restaurant Management Ordering Platform** –  Developed a full-stack restaurant platform designed to support online food ordering and restaurant management through
-dedicated customer and admin interfaces,  Built a customer-facing platform that allows users to browse food categories, explore menu items, manage their cart,
-and place food orders through a responsive interface, Developed an admin dashboard for managing the restaurant’s menu, categories, food items, and operational data
-through a centralized management system
----
-
-## 🏢 Experience
-### **Freelance Front-End Developer (Zero Tech )**  
-📅 April 2026
-
-- Architected a responsive security systems e-commerce site with Next.js/React.js, including product filtering, cart,
-Clerk auth, and RTL support .
-- Gathered client requirements independently and delivered Phase 1 on schedule; planned multi-language and Dark/Light
-Mode support..
----
-### **Front-End Instructor (React.js & Next.js) Techno Square**  
-📅 April 2026 – July 2026
-
-- Taught Front-End Development fundamentals and modern practices, focusing on React.js and Next.js.
-- Delivered hands-on training covering component-based architecture, state management, and API integration.
-- Mentored and trained 100+ students in React.js and Next.js through hands-on projects and practical coding
-sessions.- Provided mentorship and code reviews to help trainees improve problem-solving and debugging skills.
----
-### **Frontend Developer Intern – Hex Software**  
-📅 Jul 2025 – Aug 2025  
-
-- Trained in HTML, CSS, JavaScript, Bootstrap, jQuery, and Sass  
-- Built responsive web applications and interactive UI components  
-- Used Git & GitHub for version control and collaboration  
----
-### **Frontend Developer Intern – ITI**  
-📅 Jul 2024 – Aug 2024  
-
-- Trained in HTML, CSS, JavaScript, Bootstrap, jQuery, and Sass  
-- Built responsive web applications and interactive UI components  
-- Used Git & GitHub for version control and collaboration  
-
----
-### **Frontend Development Intern – Codveda Technolgy**  
-📅 May 2026 -June 2026
-
-- Developed responsive Front-End projects using HTML, CSS, and JavaScript  
-- Built projects like Calculator, Portfolio, Image Gallery, and Music Player  
-- Improved JavaScript and UI/UX development skills  
-
----
-### **Frontend Development Intern – CodeAlpha**  
-📅 Jun 2026 – Jul 2026
-
-- Developed responsive Front-End projects using HTML, CSS, and JavaScript  
-- Built projects like Calculator, Portfolio, Image Gallery, and Music Player  
-- Improved JavaScript and UI/UX development skills  
+<p align="center">
+  <a href="https://github.com/omar-rehann">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/omar-rehann">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://omar-rehann.github.io/Omar-Rehann/">
+    <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:omarrehan724@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-## 🎓 Education
-**B.Sc. in Computer Science (2022 – 2025)** – Port Said University  
-- Graduated with a grade : B+
-- Graduation Project: Online Examination System using front-end technologies  
+## About Me
+
+I'm Omar Rehan, a Computer Science graduate from Port Said University and a Full-Stack Developer specializing in modern web applications.
+
+I build responsive, scalable web solutions, combining intuitive user interfaces with backend APIs, database integration, authentication, and deployment.
+
+- Developed full-stack projects including an Online Exam Management Platform, Doctor Appointment System, Restaurant Ordering Platform, and Car Marketplace.
+- Experienced in React.js, Next.js, Node.js, Express.js, and MongoDB.
+- Exploring PostgreSQL and modern database technologies for building scalable applications.
+- Previously taught React.js and Next.js to 100+ students.
+- Interested in Full-Stack, Front-End, and React.js Developer opportunities.
 
 ---
 
-## 📚 Training
-### **LinkedIn & Job Ready Training – ITIDA**  
-📅 2025
+## Tech Stack
 
-- Completed a one-week training covering CV writing, ATS optimization, LinkedIn profile building, and professional job application skills.
-- Applied the training by rebuilding my CV and LinkedIn profile, achieving an evaluation score of 8/10.
----
-### **Freelancing Training – ITIDA**  
-📅 2025
+### Frontend Development
 
-- Completed a two-week training focused on freelancing fundamentals, building a professional profile, finding clients, and creating effective proposals.
----
-### **Front-End Development Trainee – ITI**  
-📅 2024
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="50" alt="React" /></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" /></a>
+</p>
 
-- Completed a two-month, 120-hour hybrid Front-End Development training program covering HTML5, CSS3, JavaScript, Bootstrap, and SASS, with hands-on development of responsive web applications.
+**Additional Skills:** React Hooks, Redux Toolkit, React Router, shadcn/ui, HyperUI, Responsive Design.
 
----
+### Backend Development
 
-## 📜 Certificates
-- freeCodeCamp – Responsive Web Design  , JavaScript Algorithms and Data Structures ,JavaScript 
-- Coursera – Introduction to Front-End Development  
-- CSS50 – Fundamentals of Web Development  
-- C++ Programming Certificate  
-- SDLC & Clean Code Principles  
-- OOP, Data Structures & Algorithms  
-- Soft Skills: Time Management, Communication, Presentation, Self-Learning  
-- Maharah Tech:Intensive training program covering HTML5, CSS3 (Responsive Design), JavaScript, and React fundamentals.
+<p align="left">
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js" /></a>
+</p>
 
----
+**Additional Skills:** RESTful APIs, Strapi CMS, Server Actions, Next.js Route Handlers, CRUD Operations.
 
-## 🛠️ Skills
-• **Frontend Development**: HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js  
-• **UI & Styling**: Tailwind CSS, Bootstrap, React Bootstrap, Shadcn UI, HyperUI, Responsive Design  
-• **State & Routing**: React Hooks, Redux Toolkit, React Router  
-• **Backend Development**: Node.js, Express.js, RESTful APIs, Strapi CMS  
-• **Database**: MongoDB, Mongoose, Supabase Storage, Database Design & Integration  
-• **Authentication & Security**: JWT, Clerk, Role-Based Authentication  
-• **Programming Fundamentals**: C++, OOP, Data Structures & Algorithms, Bash Scripting  
-• **Tools & Workflow**: Git, GitHub, Vercel  
-• **Soft Skills**: Problem Solving, Teaching & Mentoring, Communication, Teamwork & Collaboration, Presentation Skills (Gamma, Google Slides)
+### Databases
 
----
-## 🌍 Languages
-- Arabic: Native  
-- English: [B1]  
+<p align="left">
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" /></a>
+  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase" /></a>
+</p>
 
----
-## 🧩 Problem Solving
-- Solved problems on LeetCode and Codewars, focusing on JavaScript fundamentals and algorithmic thinking
-Strong understanding of Data Structures and Algorithms (DSA) including arrays, strings, recursion, sorting, and searching techniques
-Continuously improving problem-solving skills through consistent practice and real-world coding challenges
-Applied logical thinking and optimization techniques to write efficient and clean solutions
+**Additional Technologies:** Mongoose, Neon, Database Design, Database Integration.
 
-🔗 GitHub Repository:
-https://github.com/omar-rehann/Problem_Solving
+### Authentication & Cloud Services
+
+<p align="left">
+  <a href="https://clerk.com/"><img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" /></a>
+  <a href="https://jwt.io/"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" /></a>
+  <a href="https://cloudinary.com/"><img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" /></a>
+  <a href="https://imagekit.io/"><img src="https://img.shields.io/badge/ImageKit-7B3FE4?style=for-the-badge&logoColor=white" alt="ImageKit" /></a>
+</p>
+
+### Tools & Deployment
+
+<p align="left">
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" /></a>
+  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" /></a>
+</p>
 
 ---
 
+## Featured Projects
 
-## 📫 Connect with Me
-- 📧 Email: [omarrehan724@gmail.com](mailto:omarrehan724@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/omar-rehan](https://www.linkedin.com/in/omar-rehan)  
-- 🐦 Twitter (X): [twitter.com/omarrehan](https://twitter.com/omarrehan)  
-- 📘 Facebook: [facebook.com/omar.rehan](https://www.facebook.com/omar.rehan)  
-- 📷 Instagram: [instagram.com/omar-rehann](https://www.instagram.com/omar-rehann)  
-- 🌐 Portfolio: [omar-rehann.github.io/Omar-Rehann](https://omar-rehann.github.io/Omar-Rehann/)
+### Online Exam Management Platform
+
+A full-stack examination platform with dedicated dashboards for administrators, instructors, and students.
+
+- Five question types and manual essay grading.
+- Exam scheduling and result visibility controls.
+- Bulk Excel import/export for account management.
+- Trash and restore functionality for exam management.
+- Role-based access and dedicated user dashboards.
+
+**Technologies:** Next.js, React.js, TypeScript, PostgreSQL, Neon, Clerk, Tailwind CSS, shadcn/ui.
+
+### Car Marketplace
+
+A full-stack vehicle marketplace with dynamic listings and administrative management.
+
+- Search and filtering across vehicle listings.
+- Detailed vehicle pages and category-based browsing.
+- Admin dashboard for managing listings.
+- Authentication and cloud image management.
+
+**Technologies:** Next.js, React.js, TypeScript, PostgreSQL, Drizzle ORM, Clerk, Cloudinary, Tailwind CSS, shadcn/ui.
+
+<p>
+  <a href="https://car-marketplace-delta-smoky.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Car Marketplace Demo" />
+  </a>
+</p>
+
+### Doctor Appointment Management System
+
+A healthcare booking platform connecting patients with doctors and administrators.
+
+- Browse medical specialties and doctor profiles.
+- Book, cancel, and manage appointments.
+- Authentication and responsive user interfaces.
+- Admin management of doctors, services, articles, specialties, and appointments.
+
+**Technologies:** Next.js, React.js, Strapi CMS, Clerk, Tailwind CSS, shadcn/ui.
+
+<p>
+  <a href="https://doctor-appointment-system-p1zy.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Doctor Appointment Demo" />
+  </a>
+  <a href="https://github.com/omar-rehann/Doctor-Appointment-System">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Doctor Appointment Source Code" />
+  </a>
+</p>
+
+### Restaurant Ordering & Management Platform
+
+A restaurant platform with customer-facing ordering and administrative management interfaces.
+
+- Browse food categories and menu items.
+- Manage shopping carts and place orders.
+- Admin dashboard for managing categories, menu items, and restaurant data.
+- Responsive interfaces and backend API integration.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB, REST APIs, Supabase Storage.
+
+---
+
+## Experience
+
+### Freelance Front-End Developer — Zero Tech
+**April 2026**
+
+- Built a responsive security systems e-commerce website using Next.js and React.js.
+- Implemented product filtering, cart functionality, Clerk authentication, and RTL support.
+- Gathered requirements and delivered the first project phase.
+
+### Front-End Instructor — Techno Square
+**April 2026 – July 2026**
+
+- Taught React.js and Next.js through hands-on training and projects.
+- Covered component-based architecture, state management, and API integration.
+- Mentored 100+ students and provided code reviews and debugging guidance.
+
+### Freelance Front-End Developer — Beti
+**January 2026 – Present**
+
+- Contributed to a Saudi real-estate platform built with React.js.
+- Fixed 15+ post-launch issues involving image loading, missing developer data, and broken footer social links.
+
+### Front-End Development Intern — HEX Software
+**June 2026 – August 2026**
+
+- Participated in remote frontend development tasks.
+- Practiced responsive interface development and reusable components.
+
+### Front-End Development Intern — Codveda Technology
+**November 2025 – December 2025**
+
+- Developed frontend projects using HTML, CSS, and JavaScript.
+- Practiced responsive design and interactive UI development.
+
+---
+
+## Education
+
+**B.Sc. in Computer Science**  
+Port Said University, Egypt | 2022–2025
+
+- Graduation Grade: B+
+- Graduation Project: Online Examination System.
+
+---
+
+## Certificates & Training
+
+- **ITI:** Front-End Development Training — 120 hours, 2024.
+- **ITIDA:** LinkedIn & Job Ready Training — 2025.
+- **ITIDA:** Freelancing Training — 2025.
+- **freeCodeCamp:** Responsive Web Design.
+- **freeCodeCamp:** JavaScript Algorithms and Data Structures.
+- **Coursera:** Introduction to Front-End Development.
+- **CS50:** Fundamentals of Web Development.
+- C++ Programming, OOP, Data Structures & Algorithms, SDLC, and Clean Code Principles.
+- **Mahara Tech:** HTML, CSS, JavaScript, and React fundamentals.
+
+---
+
+## Problem Solving
+
+Practicing programming challenges to improve algorithmic thinking, JavaScript fundamentals, and code quality.
+
+**Focus Areas:** Arrays, Strings, Recursion, Sorting, Searching, and Data Structures & Algorithms.
+
+<p>
+  <a href="https://github.com/omar-rehann/Problem_Solving">
+    <img src="https://img.shields.io/badge/Problem_Solving-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Problem Solving Repository" />
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.codewars.com/">
+    <img src="https://img.shields.io/badge/Codewars-Practice-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
+  </a>
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omar-rehann&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Omar's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-rehann&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=omar-rehann&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## Languages
+
+- Arabic: Native
+- English: B1
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://github.com/omar-rehann">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/omar-rehann">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://omar-rehann.github.io/Omar-Rehann/">
+    <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:omarrehan724@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:06B6D4&height=100&section=footer" width="100%" />
+</p>
