@@ -197,7 +197,7 @@ A restaurant platform with customer-facing ordering and administrative managemen
 ## Education
 
 **B.Sc. in Computer Science**  
-Port Said University, Egypt | 2022–2025
+Port Said University, Egypt | 2021–2025
 
 - Graduation Grade: B+
 - Graduation Project: Online Examination System.
