@@ -11,7 +11,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/Logo.jpg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">John Doe</h5>
-                                            <a href="https://omar-rehann.github.io/John-Doe/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/John-Doe/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -21,7 +21,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/urban.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Urban</h5>
-                                            <a href="https://omar-rehann.github.io/urban/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/urban/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -31,7 +31,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/cv (2).jpg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">CV</h5>
-                                            <a href="https://omar-rehann.github.io/CV/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/CV/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -41,7 +41,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/metup.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Met-Up</h5>
-                                            <a href="https://omar-rehann.github.io/Met-Up/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Met-Up/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -51,7 +51,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/multi.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Multi Profile</h5>
-                                            <a href="https://omar-rehann.github.io/Multi-Porfile/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Multi-Porfile/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -61,7 +61,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/leon.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Loen Template</h5>
-                                            <a href="https://omar-rehann.github.io/Loen-Template/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Loen-Template/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -71,7 +71,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/hawk.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Hawk Design</h5>
-                                            <a href="https://omar-rehann.github.io/Hawk-Design/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Hawk-Design/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -81,7 +81,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/dash.jpg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">DashBoard</h5>
-                                            <a href="https://omar-rehann.github.io/Dashborad/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Dashborad/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -100,7 +100,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/ress.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Restaurant Website</h5>
-                                            <a href="https://omar-rehann.github.io/Resturant/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Resturant/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -111,7 +111,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/footcap.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Sports Website</h5>
-                                            <a href="https://omar-rehann.github.io/Foot-Cap/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Foot-Cap/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -123,7 +123,7 @@ all_links.forEach((e) => {
                                         <div class="card-body">
                                             <h5 class="card-title">Industrial Platform Website
 </h5>
-                                            <a href="https://omar-rehann.github.io/Industal/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Industal/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -133,7 +133,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/carservies.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Car -Services</h5>
-                                            <a href="https://omar-rehann.github.io/Car-Services/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Car-Services/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -143,7 +143,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/eduction.jpg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Educational Landing Page</h5>
-                                            <a href="https://omar-rehann.github.io/Eduction/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Eduction/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -153,7 +153,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/elisa.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Landing Page</h5>
-                                            <a href="https://omar-rehann.github.io/Elisa/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Elisa/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -163,7 +163,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/gym.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Fitness Website</h5>
-                                            <a href="https://omar-rehann.github.io/Gym/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Gym/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -173,7 +173,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/unika.jpg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Landing Page </h5>
-                                            <a href="https://omar-rehann.github.io/Unika/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Unika/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -183,7 +183,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/photo.jpg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Lugx Website </h5>
-                                            <a href="https://omar-rehann.github.io/Lugx/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Lugx/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -193,7 +193,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/start.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">flex Start</h5>
-                                            <a href="https://omar-rehann.github.io/Flex-Start/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Flex-Start/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -203,7 +203,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/study.jpg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Online Study</h5>
-                                            <a href="https://omar-rehann.github.io/Online-study/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Online-study/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -223,7 +223,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/shoes.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Dynamic Collection</h5>
-                                            <a href="https://omar-rehann.github.io/Dynamic-Collection/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Dynamic-Collection/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -235,7 +235,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/digital.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Digital Marketing</h5>
-                                            <a href="https://omar-rehann.github.io/Digital-Marketing/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Digital-Marketing/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -245,7 +245,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/shopy.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">ShopyKart</h5>
-                                            <a href="https://omar-rehann.github.io/ShopyKart/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/ShopyKart/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -255,7 +255,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/markey.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Grocery Mart</h5>
-                                            <a href="https://omar-rehann.github.io/Grocery-Mart/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Grocery-Mart/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -265,7 +265,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/crud.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">CRUD</h5>
-                                            <a href="https://omar-rehann.github.io/Crud-Applction/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Crud-Applction/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
                                     
@@ -276,7 +276,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/api.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Api Github</h5>
-                                            <a href="https://omar-rehann.github.io/Github-Clone/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Github-Clone/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -286,7 +286,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/warther.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Weather</h5>
-                                            <a href="https://omar-rehann.github.io/Weather-App/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Weather-App/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -296,7 +296,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/gemni.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Gemni Ai </h5>
-                                            <a href="https://omar-rehann.github.io/Gemni-Ai/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Gemni-Ai/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -306,7 +306,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/cava.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Cave Ecommerce </h5>
-                                            <a href="https://omar-rehann.github.io/Cava-Ecommerce/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Cava-Ecommerce/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -316,7 +316,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/elec.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Electronic Mart</h5>
-                                            <a href="https://omar-rehann.github.io/Electonic-Mart/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Electonic-Mart/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -326,7 +326,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/vq.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">V1 E-Commerce </h5>
-                                            <a href="https://omar-rehann.github.io/V1/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/V1/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -336,7 +336,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/inote.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">INote Company</h5>
-                                            <a href="https://omar-rehann.github.io/INote-Company/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/INote-Company/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -355,7 +355,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/hungman.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Hungman</h5>
-                                            <a href="https://omar-rehann.github.io/Hungman-Game/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Hungman-Game/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -365,7 +365,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/gusess.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Gusses Word</h5>
-                                            <a href="https://omar-rehann.github.io/Gusses-Word/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Gusses-Word/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -376,7 +376,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/memory.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Memory Game</h5>
-                                            <a href="https://omar-rehann.github.io/Memory-Game/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Memory-Game/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -386,7 +386,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/todlo.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">ToDoList</h5>
-                                            <a href="https://omar-rehann.github.io/Todolist/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Todolist/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -396,7 +396,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/speed.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Typing Speed</h5>
-                                            <a href="https://omar-rehann.github.io/Typing-Speed/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Typing-Speed/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -406,7 +406,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/tic.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Tic Tac Toe</h5>
-                                            <a href="https://omar-rehann.github.io/Tic-Tac-Toe/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Tic-Tac-Toe/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -424,7 +424,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/drink.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Drink Water</h5>
-                                            <a href="https://omar-rehann.github.io/Drink-Water/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Drink-Water/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -434,7 +434,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/ver.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Verfiy Account</h5>
-                                            <a href="https://omar-rehann.github.io/Verfiy-Account/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Verfiy-Account/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -445,7 +445,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/te.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Football Team</h5>
-                                            <a href="https://omar-rehann.github.io/Football-Team/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Football-Team/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -456,7 +456,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/stopwatch.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Stop Watch</h5>
-                                            <a href="https://omar-rehann.github.io/Stop-Watch/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Stop-Watch/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -467,7 +467,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/notebad.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Note Bad</h5>
-                                            <a href="https://omar-rehann.github.io/Note-Bad/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Note-Bad/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -477,7 +477,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/calc.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Calculator</h5>
-                                            <a href="https://omar-rehann.github.io/Calculator/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Calculator/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -487,7 +487,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/speed.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Generate Password</h5>
-                                            <a href="https://omar-rehann.github.io/Generate-Password/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Generate-Password/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -497,7 +497,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/startbacks.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">StarBacks</h5>
-                                            <a href="https://omar-rehann.github.io/StarBacks/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/StarBacks/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -507,7 +507,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/adidas.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Adidas</h5>
-                                            <a href="https://omar-rehann.github.io/Adidas/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Adidas/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -517,7 +517,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/iphone.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Iphone</h5>
-                                            <a href="https://omar-rehann.github.io/Iphone/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Iphone/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -527,7 +527,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/temo.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Convert Temperture</h5>
-                                            <a href="https://omar-rehann.github.io/Convert-Temperture/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Convert-Temperture/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -537,7 +537,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/clender.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Clender</h5>
-                                            <a href="https://omar-rehann.github.io/Clender/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Clender/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -547,7 +547,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/digital.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Digital clock</h5>
-                                            <a href="https://omar-rehann.github.io/Digital-Clock/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Digital-Clock/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -557,7 +557,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/coun.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Api Countery</h5>
-                                            <a href="https://omar-rehann.github.io/Api-countery/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Api-countery/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -568,7 +568,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/quiz.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Quiz App</h5>
-                                            <a href="https://omar-rehann.github.io/Quiz-App/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Quiz-App/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -585,7 +585,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/porfiloo.png" style="width: 100%; alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title"> Personal Portfilo</h5>
-                                            <a href="https://omar-rehann.github.io/Portfilo-react/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Portfilo-react/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
                </div>
@@ -596,7 +596,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/cavareact.png" style="width: 100%;" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Cave Ecommerce </h5>
-                                            <a href="https://omar-rehann.github.io/Ecommerce-Website/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Ecommerce-Website/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
                  
@@ -606,7 +606,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/vq.png" style="width: 100%;height: 225px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Ecom-Hub </h5>
-                                            <a href="https://omar-rehann.github.io/Ecom-Hub/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Ecom-Hub/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
                  
@@ -616,7 +616,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/youtube.png" style="width: 100%; alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Youtube Clone</h5>
-                                            <a href="https://omar-rehann.github.io/Youtube-Clone/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Youtube-Clone/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
                </div>
@@ -625,7 +625,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/dashboard.webp" style="width: 100%; alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Admin Dashboard</h5>
-                                            <a href="https://omar-rehann.github.io/Admin-DashBoard/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Admin-DashBoard/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
                </div>
@@ -634,7 +634,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/middconnect.png" style="width: 100%; alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Midd Connect</h5>
-                                            <a href="https://omar-rehann.github.io/MidConnect/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/MidConnect/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
                </div>
@@ -643,7 +643,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/inote.png" style="width: 100%; alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">INote Company</h5>
-                                            <a href="https://omar-rehann.github.io/INotee-Company/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/INotee-Company/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
                </div>
@@ -652,7 +652,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/medical.png" style="width: 100%; alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Medical Website</h5>
-                                            <a href="https://omar-rehann.github.io/Medical-Website/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Medical-Website/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
                </div>
@@ -661,7 +661,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/barqcompnay.png" style="width: 100%; alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Barq Copmany</h5>
-                                            <a href="https://omar-rehann.github.io/Barqq-Company/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Barqq-Company/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
                </div>
@@ -670,7 +670,7 @@ all_links.forEach((e) => {
                                         <img src="imgproject/medoracenter.png" style="width: 100%; alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Medora Center</h5>
-                                            <a href="https://omar-rehann.github.io/Medora-Center/" class="btn">Live Demo</a>
+                                            <a href="https://omar-rehann.github.io/Medora-Center/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
                </div>
@@ -743,7 +743,7 @@ all_links.forEach((e) => {
                         <span class="badge bg-danger">Clerk</span>
 
         </div>
-                                            <a href="https://car-marketplace-delta-smoky.vercel.app/" class="btn">Live Demo</a>
+                                            <a href="https://car-marketplace-delta-smoky.vercel.app/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -765,7 +765,7 @@ all_links.forEach((e) => {
 
 
         </div>
-                                            <a href="https://doctor-appointments-blond.vercel.app/" class="btn">Live Demo</a>
+                                            <a href="https://doctor-appointments-blond.vercel.app/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -789,7 +789,7 @@ all_links.forEach((e) => {
 
 
                                             
-                                            <a href="https://taxi-booking-a5j6.vercel.app/" class="btn">Live Demo</a>
+                                            <a href="https://taxi-booking-a5j6.vercel.app/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -811,7 +811,7 @@ all_links.forEach((e) => {
                         <span class="badge bg-danger">Clerk</span>
 
         </div>
-                                            <a href="https://car-marketplace-delta-smoky.vercel.app/" class="btn">Live Demo</a>
+                                            <a href="https://car-marketplace-delta-smoky.vercel.app/" class="btn w-100">Live Demo</a>
                                         </div>
                                     </div>
                                     
@@ -843,7 +843,7 @@ all_links.forEach((e) => {
             </p>
 
             <a href="https://github.com/omar-rehann/Grocery-Store.git"
-               class="btn">
+               class="btn w-100">
                 Git Repo
             </a>
         </div>
@@ -878,7 +878,7 @@ all_links.forEach((e) => {
                         
 
                         <a href="https://technology-security-system.vercel.app/"
-                           class="btn">
+                           class="btn w-100">
                             Live Demo
                         </a>
                     </div>
@@ -905,7 +905,7 @@ all_links.forEach((e) => {
                         <span class="badge bg-danger">Clerk</span>
 
         </div>
-                                            <a href="https://car-marketplace-delta-smoky.vercel.app/" class="btn">Live Demo</a>
+                                            <a href="https://car-marketplace-delta-smoky.vercel.app/" class=" btn w-100 w-100">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -940,7 +940,7 @@ Bootstrap</span>
                         
 
                         <a href="https://food-resturant-pagf.vercel.app/"
-                           class="btn">
+                           class="btn w-100">
                             Live Demo
                         </a>
                     </div>
@@ -976,7 +976,7 @@ Bootstrap</span>
                         
 
                         <a href="https://doctor-appointment-system-p1zy.vercel.app/"
-                           class="btn">
+                           class="btn w-100">
                             Live Demo
                         </a>
                     </div>
