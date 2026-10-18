@@ -68,7 +68,7 @@ I build responsive, scalable web solutions, combining intuitive user interfaces 
 
 <p align="left">
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" /></a>
+ 
   <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase" /></a>
 </p>
 
