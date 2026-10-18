@@ -67,9 +67,7 @@ I build responsive, scalable web solutions, combining intuitive user interfaces 
 ### Databases
 
 <p align="left">
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" /></a>
- 
-  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" /></a>&nbsp;&nbsp;<a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase" /></a>
 </p>
 
 **Additional Technologies:** Mongoose, Neon, Database Design, Database Integration.
