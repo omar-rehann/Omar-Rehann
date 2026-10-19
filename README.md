@@ -87,11 +87,27 @@ I build responsive, scalable web solutions, combining intuitive user interfaces 
 </p>
 
 ### Additional Skills
-- **State & Routing:** React Hooks, Redux Toolkit, React Router
-- **APIs & CMS:** RESTful APIs, Strapi CMS, Server Actions, Next.js Route Handlers, CRUD Operations
-- **Database Technologies:** Mongoose, Neon, Database Design & Integration
-- **Programming Concepts:** OOP, Data Structures & Algorithms, Problem Solving
-- **Soft Skills:** Teaching & Mentoring, Communication, Teamwork & Collaboration
+
+**State & Routing:** React Hooks, Redux Toolkit, React Router
+<p align="left">
+  <img src="https://cdn.simpleicons.org/redux" height="35" alt="Redux" />
+  <img src="https://cdn.simpleicons.org/reactrouter" height="35" alt="React Router" />
+</p>
+
+**APIs & CMS:** RESTful APIs, Strapi CMS, Server Actions, Next.js Route Handlers, CRUD Operations
+<p align="left">
+  <img src="https://cdn.simpleicons.org/strapi" height="35" alt="Strapi" />
+</p>
+
+**Database Technologies:** Mongoose, Neon, Database Design & Integration
+<p align="left">
+  <img src="https://cdn.simpleicons.org/neon" height="35" alt="Neon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="35" alt="Mongoose" />
+</p>
+
+**Programming Concepts:** OOP, Data Structures & Algorithms, Problem Solving
+
+**Soft Skills:** Teaching & Mentoring, Communication, Teamwork & Collaboration
 
 ---
 
