@@ -54,10 +54,8 @@ I build responsive, scalable web solutions, combining intuitive user interfaces 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap" />
-  <!-- shadcn/ui: استخدام أيقونة SVG مباشرة -->
   <img src="https://www.aiuidesigner.com/icons/shadcnui.svg" height="45" alt="shadcn/ui" />
-  <!-- HyperUI: لا توجد أيقونة رسمية، استخدم شارة نصية + أيقونة Tailwind كبديل -->
-  <img src="https://shieldcn.dev/badge/HyperUI-38BDF8.svg?logo=tailwindcss&variant=branded" height="35" alt="HyperUI" />
+  <img src="https://shieldcn.dev/badge/HyperUI-38BDF8.svg?logo=tailwindcss&variant=branded" height=45" alt="HyperUI" />
 </p>
 
 ### Backend Development
