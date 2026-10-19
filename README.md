@@ -99,15 +99,34 @@ I build responsive, scalable web solutions, combining intuitive user interfaces 
   <img src="https://cdn.simpleicons.org/strapi" height="35" alt="Strapi" />
 </p>
 
-**Database Technologies:** Mongoose, Neon, Database Design & Integration
+
+**Database Technologies:**
+
 <p align="left">
+  <img src="https://cdn.simpleicons.org/mongoose" height="35" alt="Mongoose" />
   <img src="https://cdn.simpleicons.org/neon" height="35" alt="Neon" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="35" alt="Mongoose" />
+  <img src="https://cdn.simpleicons.org/mongodb" height="35" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/postgresql" height="35" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/diagramsdotnet" height="35" alt="Database Design" />
+  <img src="https://cdn.simpleicons.org/prisma" height="35" alt="Database Integration" />
 </p>
 
-**Programming Concepts:** OOP, Data Structures & Algorithms, Problem Solving
+**Programming Concepts:**
 
-**Soft Skills:** Teaching & Mentoring, Communication, Teamwork & Collaboration
+<p align="left">
+  <img src="https://cdn.simpleicons.org/cplusplus" height="35" alt="OOP" />
+  <img src="https://cdn.simpleicons.org/thealgorithms" height="35" alt="Data Structures and Algorithms" />
+  <img src="https://cdn.simpleicons.org/leetcode" height="35" alt="Problem Solving" />
+</p>
+
+**Soft Skills:**
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/googleslides" height="35" alt="Teaching and Mentoring" />
+  <img src="https://cdn.simpleicons.org/zoom" height="35" alt="Communication" />
+  <img src="https://cdn.simpleicons.org/microsoftteams" height="35" alt="Teamwork and Collaboration" />
+</p>
+
 
 ---
 
