@@ -124,7 +124,6 @@ I build responsive, scalable web solutions, combining intuitive user interfaces 
 <p align="left">
   <img src="https://cdn.simpleicons.org/googleslides" height="35" alt="Teaching and Mentoring" />
   <img src="https://cdn.simpleicons.org/zoom" height="35" alt="Communication" />
-  <img src="https://cdn.simpleicons.org/microsoftteams" height="35" alt="Teamwork and Collaboration" />
 </p>
 
 
