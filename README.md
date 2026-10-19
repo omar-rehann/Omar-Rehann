@@ -38,57 +38,58 @@ I build responsive, scalable web solutions, combining intuitive user interfaces 
 
 ---
 
-## Tech Stack
+## Skills
 
 ### Frontend Development
-
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" /></a>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="50" alt="React" /></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" /></a>
-  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" /></a>
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js" />
 </p>
 
-**Additional Skills:** React Hooks, Redux Toolkit, React Router, shadcn/ui, HyperUI, Responsive Design.
+### UI & Styling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap" />
+</p>
 
 ### Backend Development
-
 <p align="left">
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" /></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js" /></a>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="Express.js" />
 </p>
 
-**Additional Skills:** RESTful APIs, Strapi CMS, Server Actions, Next.js Route Handlers, CRUD Operations.
-
-### Databases
-
+### Database
 <p align="left">
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" /></a>&nbsp;&nbsp;<a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase" /></a>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase" />
 </p>
-
-**Additional Technologies:** Mongoose, Neon, Database Design, Database Integration.
 
 ### Authentication & Cloud Services
-
 <p align="left">
-  <a href="https://clerk.com/"><img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" /></a>
-  <a href="https://jwt.io/"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" /></a>
-  <a href="https://cloudinary.com/"><img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" /></a>
-  <a href="https://imagekit.io/"><img src="https://img.shields.io/badge/ImageKit-7B3FE4?style=for-the-badge&logoColor=white" alt="ImageKit" /></a>
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" height="35" alt="Clerk" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="35" alt="JWT" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="35" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/ImageKit-7B3FE4?style=for-the-badge&logoColor=white" height="35" alt="ImageKit" />
 </p>
 
-### Tools & Deployment
-
+### Tools & Workflow
 <p align="left">
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" /></a>
-  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" /></a>
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" />
 </p>
+
+### Additional Skills
+- **State & Routing:** React Hooks, Redux Toolkit, React Router
+- **APIs & CMS:** RESTful APIs, Strapi CMS, Server Actions, Next.js Route Handlers, CRUD Operations
+- **Database Technologies:** Mongoose, Neon, Database Design & Integration
+- **Programming Concepts:** OOP, Data Structures & Algorithms, Problem Solving
+- **Soft Skills:** Teaching & Mentoring, Communication, Teamwork & Collaboration
 
 ---
 
