@@ -153,6 +153,11 @@ A full-stack vehicle marketplace with dynamic listings and administrative manage
 - Authentication and cloud image management.
 
 **Technologies:** Next.js, React.js, TypeScript, PostgreSQL, Drizzle ORM, Clerk, Cloudinary, Tailwind CSS, shadcn/ui.
+<p>
+  <a href="https://car-marketplace-delta-smoky.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Car Marketplace Demo" />
+  </a>
+</p>
 ### One Stop EShop
 
 A full-stack vehicle marketplace with dynamic listings and administrative management.
@@ -201,6 +206,11 @@ A restaurant platform with customer-facing ordering and administrative managemen
 - Responsive interfaces and backend API integration.
 
 **Technologies:** React.js, Node.js, Express.js, MongoDB, REST APIs, Supabase Storage.
+<p>
+  <a href="https://food-resturant-pagf.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Car Marketplace Demo" />
+  </a>
+</p>
 
 ---
 
