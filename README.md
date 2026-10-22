@@ -166,7 +166,7 @@ A full-stack vehicle marketplace with dynamic listings and administrative manage
 
 
 <p>
-  <a href="https://car-marketplace-delta-smoky.vercel.app/">
+  <a href="https://one-stop-eshop.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Car Marketplace Demo" />
   </a>
 </p>
