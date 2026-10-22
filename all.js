@@ -994,7 +994,7 @@ Bootstrap</span>
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="card mt-2" style="width: 100%;">
-                    <img src="imgproject/oneshop.png"
+                    <img src="imgproject/o1.png"
                          style="width: 100%; height: 200px;"
                          class="card-img-top rounded"
                          alt="Technology-Security-System">
