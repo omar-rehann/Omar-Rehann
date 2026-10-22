@@ -153,6 +153,17 @@ A full-stack vehicle marketplace with dynamic listings and administrative manage
 - Authentication and cloud image management.
 
 **Technologies:** Next.js, React.js, TypeScript, PostgreSQL, Drizzle ORM, Clerk, Cloudinary, Tailwind CSS, shadcn/ui.
+### One Stop EShop
+
+A full-stack vehicle marketplace with dynamic listings and administrative management.
+
+- Manage products, categories, and services efficiently.
+- Organize stores and assign managers to oversee operations.
+- Admin dashboard for managing and monitoring system data.
+- Authentication and cloud image management.
+
+**Technologies:** Next.js, React.js, TypeScript, PostgreSQL, Drizzle ORM, Clerk, Cloudinary, Tailwind CSS, shadcn/ui.
+
 
 <p>
   <a href="https://car-marketplace-delta-smoky.vercel.app/">
