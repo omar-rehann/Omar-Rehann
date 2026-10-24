@@ -928,7 +928,7 @@ all_links.forEach((e) => {
                          alt="Technology-Security-System">
 
                     <div class="card-body">
-                        <h5 class="card-title">Food Restaurant Management Ordering Platform</h5>
+                        <h5 class="card-title">Food Restaurant Management Ordering </h5>
 
                         <div class="mb-3">
                             <span class="badge bg-primary me-1">MongoDB</span>
@@ -941,9 +941,7 @@ all_links.forEach((e) => {
                             <span class="badge bg-success me-1"> Next.js</span>
                             <span class="badge bg-info text-dark me-1">shadcn/ui</span>
                             <span class="badge bg-warning text-dark me-1">Tailwind CSS</span>
-                            <span class="badge bg-danger me-1">Hyper UI</span>
-                            <span class="badge bg-warning text-dark me-1">React
-Bootstrap</span>
+                 
 
                         </div>
 
