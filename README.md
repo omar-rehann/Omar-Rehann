@@ -141,7 +141,7 @@ A full-stack examination platform with dedicated dashboards for administrators, 
 - Trash and restore functionality for exam management.
 - Role-based access and dedicated user dashboards.
 
-**Technologies:** Next.js, React.js, TypeScript, PostgreSQL, Neon, Clerk, Tailwind CSS, shadcn/ui.
+**Technologies:** Next.js, React.js, TypeScript, Php , Mysql , JWt, Jquery.
 
 ### Car Marketplace
 
