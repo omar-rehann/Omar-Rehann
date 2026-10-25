@@ -158,6 +158,7 @@ A full-stack vehicle marketplace with dynamic listings and administrative manage
     <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Car Marketplace Demo" />
   </a>
 </p>
+
 ### One Stop EShop
 
 A full-stack vehicle marketplace with dynamic listings and administrative management.
