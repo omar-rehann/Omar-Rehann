@@ -26,7 +26,7 @@
 
 ## About Me
 
-I'm Omar Rehan, a Computer Science graduate from Port Said University and a Full-Stack Developer specializing in modern web applications.
+I'm Omar Rehan, a Computer Science graduate from Faculty of Science Port Said University and a Full-Stack Developer specializing in modern web applications.
 
 I build responsive, scalable web solutions, combining intuitive user interfaces with backend APIs, database integration, authentication, and deployment.
 
