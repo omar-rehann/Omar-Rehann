@@ -1050,6 +1050,10 @@ Bootstrap</span>
                   
 
                         </div>
+                        <a href="https://pos-sysytem-z4ka-git-main-omar-rehanns-projects.vercel.app/"
+                           class="btn w-100">
+                            Live Demo
+                        </a>
 
                         
 
