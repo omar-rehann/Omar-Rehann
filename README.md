@@ -30,7 +30,7 @@ I'm Omar Rehan, a Computer Science graduate from Faculty of Science Port Said Un
 
 I build responsive, scalable web solutions, combining intuitive user interfaces with backend APIs, database integration, authentication, and deployment.
 
-- Developed full-stack projects including an Online Exam Management Platform, Doctor Appointment System, Restaurant Ordering Platform, and Car Marketplace.
+- Developed full-stack projects including an Online Exam Management Platform, POS System (Multi-Vendor Retail Platform) ,Doctor Appointment System, Restaurant Ordering Platform, and Car Marketplace.
 - Experienced in React.js, Next.js, Node.js, Express.js, and MongoDB.
 - Exploring PostgreSQL and modern database technologies for building scalable applications.
 - Previously taught React.js and Next.js to 100+ students.
