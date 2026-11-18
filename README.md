@@ -237,18 +237,6 @@ A restaurant platform with customer-facing ordering and administrative managemen
 - Contributed to a Saudi real-estate platform built with React.js.
 - Fixed 15+ post-launch issues involving image loading, missing developer data, and broken footer social links.
 
-### Front-End Development Intern — HEX Software
-**June 2026 – August 2026**
-
-- Participated in remote frontend development tasks.
-- Practiced responsive interface development and reusable components.
-
-### Front-End Development Intern — Codveda Technology
-**November 2025 – December 2025**
-
-- Developed frontend projects using HTML, CSS, and JavaScript.
-- Practiced responsive design and interactive UI development.
-
 ---
 
 ## Education
