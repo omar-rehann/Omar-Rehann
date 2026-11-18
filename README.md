@@ -241,7 +241,7 @@ A restaurant platform with customer-facing ordering and administrative managemen
 
 ## Education
 
-**B.Sc. in Computer Science**  
+**B.Sc. in CS & IT**  
 Port Said University, Egypt | 2021–2025
 
 - Graduation Grade: B+
