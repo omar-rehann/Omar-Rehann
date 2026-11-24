@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Portfolio Details | Omar Rehan</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+
+    <!-- Favicons -->
+    <link href="assets/img/omarrehanlogo.webp" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com" rel="preconnect">
+    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+    <!-- Main CSS File -->
+    <link href="assets/css/main.css" rel="stylesheet">
+
+    <!-- =======================================================
+  * Template Name: SnapFolio
+  * Template URL: https://bootstrapmade.com/snapfolio-bootstrap-portfolio-template/
+  * Updated: Jul 21 2025 with Bootstrap v5.3.7
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body class="portfolio-details-page">
+
+    <header id="header" class="header dark-background d-flex flex-column justify-content-center">
+        <i class="header-toggle d-xl-none bi bi-list"></i>
+
+        <div class="header-container d-flex flex-column align-items-start">
+            <nav id="navmenu" class="navmenu">
+                <ul>
+                    <li><a href="./index.html#hero"><i class="bi bi-house navicon"></i>Home</a></li>
+                    <li><a href="./index.html#about"><i class="bi bi-person navicon"></i> About</a></li>
+                    <li><a href="./index.html#resume"><i class="bi bi-file-earmark-text navicon"></i> Resume</a></li>
+                    <li><a href="./index.html#portfolio"><i class="bi bi-images navicon"></i> Portfolio</a></li>
+                    <li><a href="./index.html#services"><i class="bi bi-hdd-stack navicon"></i> Services</a></li>
+                    <li><a href="./index.html#contact"><i class="bi bi-envelope navicon"></i> Contact</a></li>
+                </ul>
+            </nav>
+
+            <div class="social-links  ">
+                <a href="https://x.com/OMAR68760859" class="twitter"><i class="bi bi-twitter-x"></i></a>
+                <a href="https://www.facebook.com/share/1FUX4xL2CD/" class="facebook"><i class="bi bi-facebook"></i></a>
+                <a href="https://www.instagram.com/omar_rehann?bqrl=MTk3MDVodXdnMDE0Mw==" class="instagram"><i class="bi bi-instagram"></i></a>
+
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+
+        <!-- Page Title -->
+        <div class="page-title dark-background">
+            <div class="container d-lg-flex justify-content-between align-items-center">
+                <h1 class="mb-2 mb-lg-0" id="pd-heading">Portfolio Details</h1>
+                <nav class="breadcrumbs">
+                    <ol>
+                        <li><a href="./index.html#hero">Home</a></li>
+                        <li><a href="./index.html#portfolio">Portfolio</a></li>
+                        <li class="current" id="pd-crumb">Details</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+        <!-- End Page Title -->
+
+        <!-- Portfolio Details Section -->
+        <section id="portfolio-details" class="portfolio-details section">
+
+            <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+                <div class="row gy-4">
+
+                    <div class="col-lg-8">
+                        <div class="portfolio-details-slider swiper init-swiper">
+
+                            <script type="application/json" class="swiper-config" id="pd-swiper-config">
+                                {
+                                    "loop": false,
+                                    "speed": 600,
+                                    "slidesPerView": "auto",
+                                    "pagination": {
+                                        "el": ".swiper-pagination",
+                                        "type": "bullets",
+                                        "clickable": true
+                                    }
+                                }
+                            </script>
+
+                            <div class="swiper-wrapper align-items-center" id="pd-slides">
+                            </div>
+                            <div class="swiper-pagination"></div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div class="portfolio-info" data-aos="fade-left" data-aos-delay="200">
+                            <h3>Project Information</h3>
+                            <ul>
+                                <li><strong>Project</strong>: <span id="pd-title"></span></li>
+                                <li><strong>Category</strong>: <span id="pd-category"></span></li>
+                                <li id="pd-date-row" hidden><strong>Project date</strong>: <span id="pd-date"></span></li>
+                                <li id="pd-url-row"><strong>Project URL</strong>:
+                                    <a id="pd-url" href="#" target="_blank" rel="noopener"></a>
+                                </li>
+                            </ul>
+                            <a id="pd-btn" href="#" target="_blank" rel="noopener" class="btn btn-primary w-100 mt-3">Live Demo</a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-12" id="pd-extra" hidden>
+                        <div class="portfolio-description" data-aos="fade-up" data-aos-delay="300">
+                            <div id="pd-desc-wrap" hidden>
+                                <h2>Project Overview</h2>
+                                <p id="pd-desc"></p>
+                            </div>
+                            <div id="pd-tech-wrap" class="features mt-4" hidden>
+                                <h3>Tech Stack</h3>
+                                <div id="pd-tech" class="d-flex flex-wrap gap-2"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-12">
+                        <a href="./index.html#portfolio" class="btn btn-outline-secondary">All Projects</a>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+        <!-- /Portfolio Details Section -->
+
+    </main>
+
+    <footer id="footer" class="footer position-relative">
+        <div class="container">
+            <div class="copyright text-center ">
+                <p>© <span id="year"></span> <strong class="px-1 sitename">Omar Rehan</strong> <span>All Rights Reserved</span></p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scroll Top -->
+    <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+    <!-- Preloader -->
+    <div id="preloader"></div>
+
+    <!-- Project data + renderer (must run BEFORE main.js so Swiper sees the image) -->
+    <script src="projects-data.js"></script>
+    <script>
+        (function() {
+            var ids = Object.keys(PROJECTS);
+            var id = new URLSearchParams(location.search).get('id');
+            var p = PROJECTS[id];
+            if (!p) {
+                location.replace('./index.html#portfolio');
+                return;
+            }
+
+            var $ = function(x) {
+                return document.getElementById(x);
+            };
+            var i = ids.indexOf(id);
+
+            document.title = p.title + ' | Omar Rehan';
+            $('pd-heading').textContent = p.title;
+            $('pd-crumb').textContent = p.title;
+            $('pd-title').textContent = p.title;
+            $('pd-category').textContent = p.category;
+            var imgs = p.images || [p.image];
+            imgs.forEach(function(name) {
+                var slide = document.createElement('div');
+                slide.className = 'swiper-slide';
+                var im = document.createElement('img');
+                im.className = 'img-fluid';
+                im.src = 'assets/img/portfolio/all/' + name;
+                im.alt = p.title;
+                slide.appendChild(im);
+                $('pd-slides').appendChild(slide);
+            });
+            if (imgs.length > 1) {
+                var cfgEl = $('pd-swiper-config');
+                var cfg = JSON.parse(cfgEl.textContent);
+                cfg.loop = true;
+                cfg.autoplay = {
+                    delay: 5000
+                };
+                cfgEl.textContent = JSON.stringify(cfg);
+            }
+
+            if (p.url) {
+                $('pd-url').href = p.url;
+                $('pd-url').textContent = p.url.replace(/^https?:\/\//, '').replace(/\/$/, '');
+                $('pd-btn').href = p.url;
+                $('pd-btn').textContent = p.linkLabel || 'Live Demo';
+            } else {
+                $('pd-url-row').hidden = true;
+                $('pd-btn').hidden = true;
+            }
+
+            if (p.date) {
+                $('pd-date').textContent = p.date;
+                $('pd-date-row').hidden = false;
+            }
+            if (p.description) {
+                $('pd-desc').textContent = p.description;
+                $('pd-desc-wrap').hidden = false;
+            }
+            if (p.tech && p.tech.length) {
+                p.tech.forEach(function(t) {
+                    var s = document.createElement('span');
+                    s.className = 'badge bg-dark';
+                    s.textContent = t;
+                    $('pd-tech').appendChild(s);
+                });
+                $('pd-tech-wrap').hidden = false;
+            }
+            if (p.description || (p.tech && p.tech.length)) $('pd-extra').hidden = false;
+
+            $('pd-prev').href = '?id=' + ids[(i - 1 + ids.length) % ids.length];
+            $('pd-next').href = '?id=' + ids[(i + 1) % ids.length];
+        })();
+    </script>
+
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+    <script src="assets/vendor/aos/aos.js"></script>
+    <script src="assets/vendor/typed.js/typed.umd.js"></script>
+    <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+    <!-- Main JS File -->
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
