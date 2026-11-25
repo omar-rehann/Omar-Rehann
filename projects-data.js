@@ -12,7 +12,7 @@ const PROJECTS = {
         category: 'HTML / CSS',
         image: 'Macbook-Air- (36).png',
         url: 'https://omar-rehann.github.io/omer-rehann-portfilo/',
-        description: 'A personal portfolio website built with pure HTML and CSS to showcase skills, projects, and contact information in a simple responsive layout.',
+        description: 'An interactive, web-based CV built from scratch using HTML5 and CSS3. Structured into clean resume sections—Header, Summary, Categorized Skills (Frontend, Backend, Tools), Projects, Education, Certifications, and Languages—styled with Flexbox, CSS Grid, progress indicators, box shadows, and smooth anchor navigation.',
         tech: ['HTML5', 'CSS3'],
     },
     'html-urban-design': {
