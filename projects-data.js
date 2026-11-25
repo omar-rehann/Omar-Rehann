@@ -4,7 +4,7 @@ const PROJECTS = {
         category: 'HTML / CSS',
         image: 'Logo.jpg',
         url: 'https://omar-rehann.github.io/John-Doe/',
-        description: 'A clean personal branding landing page focused on presenting a professional identity with smooth layout and modern visual hierarchy.',
+        description: 'My first front-end project built with HTML5 and CSS3. Designed to practice real-world page architecture—including a structured navbar, sidebar, well-defined content sections, progress bars, a contact section, and a footer—while applying CSS pseudo-elements (::before and ::after) for clean visual styling.',
         tech: ['HTML5', 'CSS3'],
     },
     'html-portfolio': {
