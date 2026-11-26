@@ -28,7 +28,8 @@ const PROJECTS = {
         category: 'HTML / CSS',
         image: 'cv (2).jpg',
         url: 'https://omar-rehann.github.io/CV/',
-        description: 'An online resume/CV page that presents personal information, education, and experience in a clear printable-friendly design.',
+        description: 'An interactive, web-based CV built from scratch using HTML5 and CSS3. Structured into clean resume sections—Header, Summary, Categorized Skills (Frontend, Backend, Tools), Projects, Education, Certifications, and Languages—styled with Flexbox, CSS Grid, progress indicators, box shadows, and smooth anchor navigation.',
+        ',
         tech: ['HTML5', 'CSS3'],
     },
     'html-met-up': {
