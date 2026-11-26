@@ -36,7 +36,7 @@ const PROJECTS = {
         category: 'HTML / CSS',
         image: 'metup.png',
         url: 'https://omar-rehann.github.io/Met-Up/',
-        description: 'A meetup-style landing page designed to promote events and gatherings with hero section, features, and call-to-action areas.',
+        description: 'his was my fourth project using HTML and CSS, where I applied key concepts such as Flexbox and CSS Grid.Through this project, I gained a deeper understanding of the Box Model, and how a Container acts as the parent element that controls its children — whether in terms of properties, spacing, alignment, or positioning.The project helped me connect theory with practice and improve my skills in building clean, flexible, and well-structured layouts using modern CSS layout techniques',
         tech: ['HTML5', 'CSS3'],
     },
     'html-multi-profile': {
