@@ -44,7 +44,7 @@ const PROJECTS = {
         category: 'HTML / CSS',
         image: 'multi.png',
         url: 'https://omar-rehann.github.io/Multi-Porfile/',
-        description: 'A multi-section profile page that displays different personal profiles or team members in an organized card-based layout.',
+        description: 'his was my fifth project using HTML and CSS, where I applied core concepts such as Flexbox and CSS Grid.Through this project, I deepened my understanding of the Box Model and how a Container acts as the parent element that controls its children — in terms of properties, spacing, alignment, and positioning.I also implemented several practical techniques including progress bars, positioning, ::before and ::after pseudo-elements, and basic animations. This helped me understand how to style and distribute each element based on its state and role within the layout.Overall, the project strengthened my ability to build more dynamic and well-structured multi-profile interfaces using modern CSS techniques.',
         tech: ['HTML5', 'CSS3'],
     },
     'html-leon-template': {
