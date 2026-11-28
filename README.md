@@ -68,8 +68,6 @@ I build responsive, scalable web solutions, combining intuitive user interfaces 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,prisma,drizzle" height="45" alt="Databases and ORMs" />
 
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="45" alt="SQL Server" />
-
 </p>
 
 ### Authentication & Cloud Services
