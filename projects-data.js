@@ -60,7 +60,7 @@ const PROJECTS = {
         category: 'HTML / CSS',
         image: 'hawk.png',
         url: 'https://omar-rehann.github.io/Hawk-Design/',
-        description: 'A creative design agency template focused on visual presentation of services and projects with bold typography and sections.',
+        description: "A creative design agency template focused on visual presentation of services and projects with bold typography and sections. I applied animations, 2D & 3D movements, colors, shadows, filters, and gradients throughout the design.",
         tech: ['HTML5', 'CSS3'],
     },
     'html-dashboard-system': {
