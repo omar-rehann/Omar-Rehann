@@ -1878,6 +1878,23 @@ section,
 }
 
 
+/* start banner */
+
+.image {
+    padding: 20px;
+}
+
+.image img.banner {
+    background-color: red;
+    width: 100%;
+    height: 50%;
+    border-radius: 20px;
+}
+
+
+/* end banner */
+
+
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
