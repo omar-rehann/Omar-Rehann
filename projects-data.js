@@ -68,7 +68,7 @@ const PROJECTS = {
         category: 'HTML / CSS',
         image: 'dash.jpg',
         url: 'https://omar-rehann.github.io/Dashborad/',
-        description: 'A static admin dashboard UI built with HTML and CSS, including sidebar navigation, cards, and data overview panels.',
+        description: "My first admin dashboard built from scratch with HTML & CSS. I applied sidebar navigation, Flexbox, Grid, media queries, and full responsiveness across all screen sizes — from mobile to large desktops.",
         tech: ['HTML5', 'CSS3'],
     },
     'bootstrap-restaurant-website': {
