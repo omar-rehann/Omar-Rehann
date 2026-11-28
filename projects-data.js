@@ -52,7 +52,7 @@ const PROJECTS = {
         category: 'HTML / CSS',
         image: 'leon.png',
         url: 'https://omar-rehann.github.io/Loen-Template/',
-        description: 'A classic agency-style HTML/CSS template inspired by Leon, featuring services, portfolio, and about sections with solid structure.',
+        description: "An HTML & CSS practice project focused on Flexbox, CSS Grid, and a fully responsive Navbar. The Hero section uses positioning and transitions to create smooth movements and a modern layout.",
         tech: ['HTML5', 'CSS3'],
     },
     'html-hawk-design': {
